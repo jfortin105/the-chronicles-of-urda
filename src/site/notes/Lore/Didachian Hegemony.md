@@ -8,5 +8,5 @@
 
 ## History
 - [[Lore/Arrhidaeus\|Arrhidaeus]] united the [[Twelve Hosts of Ambracia\|Twelve Hosts of Ambracia]] into the most organized military-civil state of the [[Lore/Second Age\|Second Age]] and began to conquer all lands
-- Miltary = [[Tagmata\|Tagmata]]
+- Miltary = [[Lore/Tagmata\|Tagmata]]
 	- Split into legions ruled by Governor-Generals

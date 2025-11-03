@@ -50,9 +50,9 @@
 	- Violently resisted the [[Lore/Didachian Hegemony\|Didachian Hegemony]]
 	- Escaped to [[Techulcha's Crown\|Techulcha's Crown]]
 - Presently, river settled by citizens of the remaining Hegemony
-- Notice from Ruthger Forstronge
+- Notice from [[NPCs/Ruthger Forstronge\|Ruthger Forstronge]]
 
-- Bywater
+- [[Bywater\|Bywater]]
 	- Filthy Shield (Tavern)
 		- Goat Stew (3 sp)
 		- Mead (1 sp)
