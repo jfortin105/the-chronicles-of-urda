@@ -1,0 +1,64 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20251116/"}
+---
+
+
+## Active Play
+- Wawa approaches Neeta, 22, and BB
+	- Neeta explains that she was approached by Maazak Ul-Tier after her artist son got involved in trouble in Gorm's Eye
+		- Last deliver to MUT went missing, 2-3 weeks ago...
+- Wagonwheel sized hole adjacent to legion barracks
+- Party approaches Legion barraks
+	- 2 guards
+		- Nico
+			- Young, scrawny dude just out of bootcamp
+		- Urf
+			- Too old for this shit
+	- Bicker with guards
+		- "Holes are not a safety issue"
+- Party (minus Paulo) approaches the boat 
+- Paulo fails wisdom saving throw and is hypnotized/paralyzed
+- BB, GG, P fail wisdom saving throw
+- Party enters boat and cave
+- lights torch
+- proceeds down left corridor into egg chamber
+	- 3 torso sized eggs
+- GG uses Detect Magic wand and passes checks
+	- Neutral evil, deity magic coming further down
+- Wawa pokes egg sac until it ruptures
+- strange loud footsteps approach when egg is ruptured
+- roars when larva are killed
+- BB sets rope trap
+- Combat
+	- "who dares harm the children"
+	- "The the vile mother will get you"
+- chamber of blue light 
+	- bleached skull 
+	- bloody clump of hair
+	- charred voodoo doll
+	- Altar of black bark wood brambles and twigs dedicated to Shune the Vile
+	- 22 sweeps the items off the altar the doll dissipates when it hits the ground
+	- 22 breaks the skull
+	- clump of hair disappears when torch goes out
+	- Wawa fails spellcasting roll on Cure Wounds
+	- Music stops... as the sun begins to rise on a new day
+- return to atwell
+	- talks to Juma, GG crits on nat 20 to persuade about veracity of story
+	- Talks to Legion, guards don't fully believe but summon the Major who listens to them but tells them its a legion issue now
+	- Party rests in store room of tavern
+- Returns to boat which has been swallowed up in a hole
+- Enters tunnel, find Urf with his eyes blown out
+- Find another egg chamber, filled with scorched bones
+- Come into a larger cavern with legion guys killed by crossbows
+- Two chambers
+	- One with music coming from it
+- Party confronts Erwin
+	- Worshiper of Shune
+	- Traveling bard who was down on their luck, taken in from a storm from a passing party who were Shune worshippers
+	- "True power is the ability to exert your will over others"
+	- Asks if they knew anything about Legion showing up... skull guy... etc
+	- Erwin says he wants to help the party and offers them to join him and gain powers
+	- Given the orb to summon wurms with harmonic frequencies, creatures dedicated to Shune
+		- Trying to feed Atwell and bywater to wurms to make them bigger so they can eat Gorm's Eye and turn the city into a ruin dedicated to Shune
+	- GG shoots his purple orb and Erwin transforms
+		- Jaw unhinges, eyes go black

@@ -52,7 +52,7 @@
 - Presently, river settled by citizens of the remaining Hegemony
 - Notice from [[NPCs/Ruthger Forstronge\|Ruthger Forstronge]]
 
-- [[Bywater\|Bywater]]
+- [[Locations/Bywater\|Bywater]]
 	- Filthy Shield (Tavern)
 		- Goat Stew (3 sp)
 		- Mead (1 sp)

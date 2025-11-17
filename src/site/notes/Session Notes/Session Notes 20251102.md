@@ -5,9 +5,11 @@
 # Intro - Mechanics Going Forward
 - 1 gp = 10sp
 - Unarmed combat = 1d2
+	- Heads = 1
+	- Tails = 2
 - Luck tokens --> Get one each session
 	- NPCs
-		- You can give a luck token to an NPC to use in the moment of a failed role, if they Positively or Neutrally aligned to Party.
+		- You can give a luck token to an NPC to use in the moment of a failed role, if they are Positively or Neutrally aligned to Party.
 - Rations 
 	- To rest, a character must consume a ration and sleep for 8 hours
 		- Sleep can be broken up for light and routine tasks, such as taking a turn on watch
@@ -38,6 +40,7 @@
 			- Metal grate covering mouth
 			- Harsh breathing hissing through mouth gates
 			- Appeared concerned and urgent when party did not take the parchment
+			- Walked off to the east 
 - Arrives in [[Locations/Atwell\|Atwell]]
 	- Goes to Brewery and talks to Juma
 		- Tells them about the Marsden Homestead having the most recent hole
@@ -46,7 +49,6 @@
 	- 22 asks [[Erwin Jest\|Erwin Jest]] to read the parchment
 		- Discovers it is in Draconic 
 		- Mentions Draconic Cults
-			- Cultists perform ritual to 
 	- Marsden Homestead
 		- Barn falling into giant hole
 		- BB investigates and sees that the hole was not created by digging
@@ -75,7 +77,7 @@
 			- "This quantity is not enough. One more shipment or you will see more of your son."
 			- Thumb enclosed
 		- Neeta and Juma come to investigate
-			- Neeta catches 22
+			- [[NPCs/Neeta Oilsweep\|Neeta Oilsweep]] catches 22
 		- P hears strange, otherworldly music coming from the boat
 			- No sails, but strange mechanical blades on the back
 			- Sees camp, with hole/tunnel with faint light and music coming from it

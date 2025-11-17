@@ -6,4 +6,4 @@
 
 - The current age of the world
 - The Fourth Age began with the death of [[Lore/Arrhidaeus\|Arrhidaeus]] and the fracturing of the [[Lore/Didachian Hegemony\|Didachian Hegemony]], 100 years ago.
-- 
+-  Current date: 4A, 102 yr, M8, D12 
