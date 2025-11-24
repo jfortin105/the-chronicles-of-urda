@@ -31,7 +31,7 @@
 - BB sets rope trap
 - Combat
 	- "who dares harm the children"
-	- "The the vile mother will get you"
+	- "The vile mother will get you"
 - chamber of blue light 
 	- bleached skull 
 	- bloody clump of hair
