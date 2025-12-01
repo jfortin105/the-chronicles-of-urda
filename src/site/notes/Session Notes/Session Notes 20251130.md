@@ -1,0 +1,94 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20251130/"}
+---
+
+
+- Carousing results:
+	- Blagbrag: 13
+		- Marsden parents hit you up across the bar
+	- 2212-X: 12
+		- Makes everyone laugh with his impression of Erwin Jest
+	- Paulo: 9
+		- Juma breaks out the moonberry wine
+	- Glizgliz: 6
+		- Marsden children bring you cool rocks
+	- Wawa: 5
+		- Everyone leaves you blissfully alone... for once.
+
+# Mechanics and Other Rules
+- Carousing table to be reworked...
+	- Region specific results
+	- GP cost increase
+	- Roll one number for table
+	- All roll and distribute evenly
+- HP on level up
+	- Roll all hit dice
+		- If higher than current HP, keep roll
+		- If lower than current HP, add 1 to current HP
+- Making torches
+	- INT based check, DC determined by location/area
+- Letters/paper can be bundled into 1 inventory slot
+## Active Play
+- Evenly distributed XP from carousing, all level 2
+- Party wakes up blearly... Juma is not present
+	- Lockbox behind the counter, Wawa tries to bust it open
+	- Paulo hungover
+	- Blagbrag cried himself to sleep
+	- 22 slept outside
+		- gave his room to a peasant
+			- Only other person who slept in the bar
+	- Glizgliz does morning yoga 
+- Wawa breaks open up lock box (31 total), gets tackled by Glizgliz and Blagbrag.
+	- Paulo steals 14 gold from box
+	- Gives 7 gp to 22
+	- Wawa takes the 17 gold remaining in lockbox
+	- Paulo leaves 14 gp with the random peasant
+	- Wawa gets scruffed by Blagbrag who shakes all their money out and returns it to the lock box
+- [[Karl Pardo\|Karl Pardo]] gives them 20 gp as a reward
+	- Explains that he is leaving to see the Custodian and that most of the town has already left
+	- femur bone as funeral effigy of a lost soldier on his hip
+	- urges party to stay out of the coven business
+	- Tells them the Marsden have a boat
+- Party decides to return to Bywater
+	- 504 -> 503 sleep no rest (1/3)
+	- 11th of Vresh, 103yr 4A
+	- 502 -> 13 gnolls hunting a rhino 
+		- Party hides and waits them out until they leave
+	- Returns to Bywater and goes shopping
+		- Blagbrag buys a shield
+		- Paulo buys 3 rations and gives 1 to Glizgliz
+	- Meets back up with Ruthger
+		- Makes them nasty soup (1 ration)
+		- relishes their stories
+		- Travelling merchant buddy who speaks draconic
+		- 4 gp + 5 sp 
+		- Mysterious Staff
+			- Used by Ruthger's friend, a wizard, who died on their first adventure (ripped apart by skeletons)
+			- Needs to be identified or learned about
+		- Una the Blacksmith has an old broken boat that the party could use if they repair it
+		- Party sleeps and Glizgliz tries to decipher the Staff
+			- Curved staff with red river rocks that resembles a snake (Staff of the Cobra)
+- Wake up in Bywater  - 12th of Vresh, 103yr 4A
+	- 22 + Wawa + Glizgliz --> Ruthger flowers
+		- Ruthger's big day
+			- Glizgliz and 22 split 10 gp price for prized peonies
+				- 32 flowers for his 32 dead friends
+			- Go to cemetery
+				- ruthger's story
+					- family of cooper
+					- Ran off to be an adventure
+						- Party all died, over and over
+						- stopped trying to be an adventurer due to his bad luck
+					- Blagbrag tries to infer if he is possessed
+				- Hypebeast Mode
+					- Ruthger breaks down and starts speaking only in Hypebeast quotes 
+					- Says he ate some new, glowing mushrooms
+					- Trips out and says he wants to go become an adventurer 
+	- Paulo + Blagbrag --> fix boat
+		- Una tells them the boats a piece of shit
+			- Canoe + 4 paddles and big hole, musty
+		- Brings back to Ruthger's house
+		- Names the boat: "Ruthger's Hope"
+- Wake up in Bywater  - 12th of Vresh, 103yr 4A
+	- Wawa smacks Ruthger
+	- Ruthger says he will go find his buddy who knows Draconic --> meet them back on the 16th of Vresh
