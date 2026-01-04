@@ -1,0 +1,73 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20251221/"}
+---
+
+
+
+# 13th of Vresh, year of 103, Fourth Ag
+- Ruthger tells his lil story
+- traveling commences (502 - 603)
+	- Random Encounter 5 (502)
+		- [[Knight With No Name\|Knight With No Name]] investigating gnoll attack on rhino
+			- Kneeled investigating something in the grass around the rhino carcass
+				- Black iron, hinged mask, red horsehair plumage
+		- 603  no events
+		- End of Day, no Rest (day 1 of 3)
+# 14th of Vresh, year of 103, Fourth Age
+- traveling commences (603-703)
+	- Random encounter 6 (603)
+		- Kobold sorcerer Mortimus preaches from atop a log
+			- GG recognizes as a Kobold
+				- 2 roll to know if Kobolds know draconic
+			- Kobold in a oversized big blue robes with a robe gesticulating loudly to a small group of 4 kobolds
+		- Speech
+			- real estate flipping and time shares
+			- 22 preaches about Saint Tarragnis
+				- gives each 1 gp
+			- Mortimus introduces himself and preaches his idea of capitalism 
+			- Winged beast attacked their home in 901 and they are looking for new homes
+				- heading to Gorm's Eye
+				- Maybe head into the Djurum where the administration is more amenable
+				- Paulo shows kobolds the magic mushrooms and tells them they could be used to make a fortune
+					- passes DC 15 CHAR check to bargain for 10 gp
+					- Mortimus buys mushrooms
+				- Kobolds leave
+- Arrive at Citadel
+- Rest for the night
+	- consume 1 ration
+	- Hear minotaur underground
+	- see bull motifs
+# 15th of Vresh, year of 103, Fourth Age
+- Paulo tries to climb wall into the Courtyard (18)
+	- DEC 12 roll 19
+- BB throws rock at bull statue
+	- bull charges at statue, which seems to take the force of the blow
+- Paulo throws rock and fails stealth
+	- Minotaur runs into the maze
+- BB jury rigs a fake body hanging from the statue
+- Party goes into 11
+	- Leaves skeletons
+- Party goes into 12
+	- Disturbs wight
+	- Initiative
+	- Wight hits Blagbrag with sword and life drain 4 CON damage
+- Paulo snipes Wight with a declaration of 'Checkmate'
+- Paulo picks up [[Golden Brooch of a Scarab\|Golden Brooch of a Scarab]] and gives it to GlizGliz
+- Paulo picks up Leather Armor
+- Party gains 3 XP
+- Avoids bull statues and enters robe chamber
+	- Blagbrag finds bronze key
+- Enters Quartz Cave (2)
+	- Paulo, 22, Glizgliz blinded
+	- Random encounter 2 
+		- 3 ettercaps and 6 beastmen clash in a bloody melee in room 3
+		- Party goes other direction
+	- Party enters room 16, 22 gives coin
+		- Gets luck token and sees [[NPCs/Giuseppe Baldini\|Giuseppe Baldini]]
+			- Asks them to get him out of the Citadel
+			- Asks them to retrieve the body of his companion
+				- 1 Healing Potion
+				- 1 bundle of letters
+				- Looks like purple eye'd thief
+				- impalled by bull statue
+			- Party escapes into courtyard and triggers random event, summoning the minotaur!!

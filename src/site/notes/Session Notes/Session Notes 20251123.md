@@ -14,13 +14,13 @@
 		- malevolent prescence
 - Loot:
 	- 1x shortsword
-	- 1x cracked emerald
+	- 1x cracked emerald (120 gp)
 	- 2x potion of healing
 	- 1x leather pouch of letters
 	- 1x lump of pulsating purple flesh
 	- 3 XP
 - Loginius Jest
-	- Letter telling Erwin Jest he's a failure and a dissapointment
+	- Letter telling Erwin Jest he's a failure and a disappointment
 	- Brother Arwin, who is in in the Hecate Legion and wildly successful
 - Unsigned letter
 	- "The hag does not tolerate failure. If you do not succeed to your mission of folly, return to Haldrin's Tower"

@@ -31,7 +31,7 @@
 - Party travels
 	- 501 -> 502 -> 503 -> 504
 - Travel Encounter Hex 504:
-	- A lean stranger with a caged cover over their mouth and black robes hands them a [[Strange Piece of Paper\|Strange Piece of Paper]]
+	- A lean stranger with a caged cover over their mouth and black robes hands them a [[Adventures/Strange Piece of Paper\|Strange Piece of Paper]]
 		- Strange slanted, sharp text
 		- Image of concentric circles
 	- [[Stranger on the Road\|Stranger on the Road]]
@@ -46,7 +46,7 @@
 		- Tells them about the Marsden Homestead having the most recent hole
 		- Juma makes fun of 22
 			- Mentions Neeta, who runs the manure yard
-	- 22 asks [[Erwin Jest\|Erwin Jest]] to read the parchment
+	- 22 asks [[NPCs/Erwin Jest\|Erwin Jest]] to read the parchment
 		- Discovers it is in Draconic 
 		- Mentions Draconic Cults
 	- Marsden Homestead
@@ -84,6 +84,6 @@
 		- GG catches up to and pins thief
 			- young human woman with purple eyes and facial tattoos of looping circles
 				- "you don't want anything to do with this"
-				- Maazak Ul-Tiur
+				- [[Factions/Maazak Ul-Tiur\|Maazak Ul-Tiur]]
 			- GG interrogates Thief and lets them go
 				- Run off in different directions

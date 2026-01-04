@@ -89,6 +89,6 @@
 			- Canoe + 4 paddles and big hole, musty
 		- Brings back to Ruthger's house
 		- Names the boat: "Ruthger's Hope"
-- Wake up in Bywater  - 12th of Vresh, 103yr 4A
+- Wake up in Bywater  - 13th of Vresh, 103yr 4A
 	- Wawa smacks Ruthger
-	- Ruthger says he will go find his buddy who knows Draconic --> meet them back on the 16th of Vresh
+	- Ruthger says he will go find his buddy who knows Draconic --> meet them back on the 18th of Vresh

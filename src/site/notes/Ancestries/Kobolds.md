@@ -9,7 +9,7 @@
 
 # Background
 - [[Lore/Mortal Races\|Mortal Races]]
-- Rare and feared due to their similar appearance and perceived connection to [[Dragons\|Dragons]]
+- Rare and feared due to their similar appearance and perceived connection to [[Lore/Dragons\|Dragons]]
 - Appeared in the [[Lore/Third Epoch - Second Age\|Third Epoch - Second Age]]
 - Origin Mythology:
 	- The death tears of [[Jetavana\|Jetavana]] while he was eaten alive by the [[Lore/Kathavattu\|Kathavattu]] created the first Kobolds
