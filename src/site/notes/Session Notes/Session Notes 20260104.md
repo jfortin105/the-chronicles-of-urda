@@ -1,0 +1,68 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260104/"}
+---
+
+# 15th of Vresh, year of 103, Fourth Age
+- Minotaur chases party into the hallways!
+	- 18 -> 16
+	- 16 -> 15
+	- 15 -> 1
+		- Exit
+		- GG sees strange "bipedal eight-eyed spiderfolk with spindly legs and purple fur" run into cave
+		- a force keeps the minotaur from crossing the double doors
+		- 22 nae-nae's on the minotaur
+- takes the stairs up into twilight
+- Giuseppe has a breakdown
+	- vomits when 22 gives him a piece of his robe
+	- [[Lemon and Fig\|Lemon and Fig]] 
+		- High-end retail herbalist chain in [[Locations/Gorm's Eye\|Gorm's Eye]]
+		- Owner and Operator
+		- [[Lime and Frog\|Lime and Frog]]
+			- Dispensary chain
+	- Names his friend as [[Lesha\|Lesha]]
+	- Trying to become a member of the [[Factions/Maazak Ul-Tiur\|Maazak Ul-Tiur]]
+		- Pretended to be a more experienced adventurer
+		- Recognizes the Agulhas name
+		- Will only wait for the party for 24 hours
+		- Offers his daughter's hand
+	- Party rests and reads Lesha's note
+		- "I've tracked a [[Kytherian Cog\|Kytherian Cog]] to the halls of Minoros. I may not return, my twin. You know what is it at stake - fear not for me. Hold to the [[Lore/Principia Argentum\|Principia Argentum]], think of mother and father and what they taught us. Find Endrek in [[The Oasis\|The Oasis]]"
+		- GG fails INT check to know what is a kytherian cog is
+		- Lesha's other notes
+			- Sketch of cog, "look in throne room"
+			- "exit in the maze"
+		- Rations consumed
+			- BB
+				- loses penalty from Wight
+
+# 16th of Vresh, year of 103, Fourth Age
+- 2 days until meeting Ruthger
+- GG relays info about purple spider creatures
+- Guiseppe takes a big stinky shit
+- Look for southwest entrance
+	- Southwest Hall. 
+		- collapsed roof, Open tunnel leads into the labyrinth
+- 22 let out a blood curdling scream
+	- no random encounter
+	- Paulo enters a dead end and sees 2 jars
+	- GG sees 4 jars
+		- picks up 2 jars
+			- 2 gp in one
+			- 1 gp in the other
+			- 2 gp
+			- 2 gp
+		- GG casts detect magic, success
+			- possession related vibes
+			- BB fails check, nat 1
+		- 22 finds a jar
+- Leaves maze and sneaks by minotaur into room 19
+- see unconscious beastmen with bag of dead rats
+- scared of party, hides in corner and flees when party leaves room and enters 20
+- Blagbrag steps on ochre ooze hiding on mosaic floor 
+- Paulo tries to pick lock and fails
+- Wawa crits on Holy Weapon
+- Wawa goes down
+- GG revives with health potion, 5 hp
+- Paulo crits and snipes Ochre Ooze
+- Party enters throne room
+	- Skeleton with cog in crown
