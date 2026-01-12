@@ -13,3 +13,4 @@
 | Winged beast drove Kobolds from their homes                                                                                                                                   |
 | Strange note in Erwin Jest's possession mentions Haldrin's Tower                                                                                                              |
 | Mysterious figure gave you a note written in draconic                                                                                                                         |
+| Mysterious lump of purple flesh from wurm orb                                                                                                                                 |
