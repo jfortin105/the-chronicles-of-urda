@@ -1,0 +1,65 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260111/"}
+---
+
+# 16th of Vresh, year of 103, Fourth Age
+- Party enters throne room
+- DC 15 INT check to recall [[Kytherian Cog\|Kytherian Cog]]
+	- Paulo, BB, 22 fail
+- DC 18 to call on [[Lore/Principia Argentum\|Principia Argentum]]
+	- Metal tablets that fell to Urda during a meteor storm
+- Diadem has feels like a notable amount of weight
+	- looks fused to gold diadem
+- GG picks up spear
+	- [[Magic Items/Vigilant\|Vigilant]]
+- "Should we fight the minotaur" socratic dialogue
+- Brell is spotted and escapes through hiding rotating wall
+- Room smells like wet dawg
+- Wawa peaks into courtyard and minotaur is gone
+- Minotaur appears and chases Wawa into maze
+	- Paulo ran out of maze, sees [[NPCs/Giuseppe Baldini\|Giuseppe Baldini]] is gone
+- Party escapes - until 22 necks Wawa, who re-enters
+	- Blagbrag grabs their rope back and runs back to group
+	- Paulo and 22 make noise to summon the minotaur
+	- 22 baits Wawa to run back into the dungeon
+	- Wawa runs underneath minotaur's legs and down hallway
+	- Minotaur hits twice and crits
+		- 28 damage
+		- cut in half vertically
+	- Glizgliz runs, sees dead Wawa
+	- Blagbrag rescues glizgliz
+	- 22 realizes it was his fault wawa died
+	- Minotaur takes Wawa's spine and tied it to his belt
+	- 22 takes the Staff of the Cobra and 
+		- 3 fingers
+			- GG takes 1 finger
+		- femur
+		- eyeball
+			- 22 takes eyeball
+		- flesh
+- Funeral for WaWa
+	- dig 10 foot deep hole for 4 hours
+- 4 pm post funeral start on road
+- Traveling:
+	- 703 -> take rest
+		- Not Taking Rations
+			- Blagbrag (Night 1)
+		- Taking ration
+			- 22
+			- Paulo
+			- Glizgliz
+	- 603 -> 502 -> 501, return to bywater
+		- No random encounters
+# 17th of Vresh, year of 103, Fourth Age
+- Arrive in bywater in evening
+- Ruthger is not home
+- Carousing
+	- GG: 14
+		- Milf-coded Gertie invites you to an orgy
+	- BB: 10
+		- Hooded figure at bar, hasn't touched their drinkl
+	- P: 10
+		- Rival crawler party catches your eye, whispering and pointing
+	- 22: 5
+		- You meet a 0-level character inherited a sword and an attitude. If you bring them with you, they gain at least 1 XP, and survive the journey, they become a level 1 ally
+- Total XP: 4 XP
