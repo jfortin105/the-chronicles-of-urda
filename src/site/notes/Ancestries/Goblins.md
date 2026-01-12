@@ -19,3 +19,4 @@
 
 ### Societal Characteristics
 - Built labyrinthian towers with tight corridors and crammed with small chambers
+- Buried in 10 ft hole
