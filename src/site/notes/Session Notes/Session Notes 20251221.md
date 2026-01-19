@@ -52,7 +52,7 @@
 	- Initiative
 	- Wight hits Blagbrag with sword and life drain 4 CON damage
 - Paulo snipes Wight with a declaration of 'Checkmate'
-- Paulo picks up [[Golden Brooch of a Scarab\|Golden Brooch of a Scarab]] and gives it to GlizGliz
+- Paulo picks up [[Magic Items/Golden Brooch of a Scarab\|Golden Brooch of a Scarab]] and gives it to GlizGliz
 - Paulo picks up Leather Armor
 - Party gains 3 XP
 - Avoids bull statues and enters robe chamber

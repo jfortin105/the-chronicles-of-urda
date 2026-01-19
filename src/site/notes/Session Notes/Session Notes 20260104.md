@@ -19,7 +19,7 @@
 		- Owner and Operator
 		- [[Lime and Frog\|Lime and Frog]]
 			- Dispensary chain
-	- Names his friend as [[Lesha\|Lesha]]
+	- Names his friend as [[NPCs/Lesha Aqari\|Lesha Aqari]]
 	- Trying to become a member of the [[Factions/Maazak Ul-Tiur\|Maazak Ul-Tiur]]
 		- Pretended to be a more experienced adventurer
 		- Recognizes the Agulhas name

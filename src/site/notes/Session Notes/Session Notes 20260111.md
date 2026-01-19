@@ -51,15 +51,17 @@
 	- 603 -> 502 -> 501, return to bywater
 		- No random encounters
 # 17th of Vresh, year of 103, Fourth Age
-- Arrive in bywater in evening
+- Arrive in [[Locations/Bywater\|Bywater]] in evening
 - Ruthger is not home
 - Carousing
 	- GG: 14
 		- Milf-coded Gertie invites you to an orgy
 	- BB: 10
-		- Hooded figure at bar, hasn't touched their drinkl
+		- Hooded figure at bar, hasn't touched their drink
 	- P: 10
 		- Rival crawler party catches your eye, whispering and pointing
 	- 22: 5
 		- You meet a 0-level character inherited a sword and an attitude. If you bring them with you, they gain at least 1 XP, and survive the journey, they become a level 1 ally
-- Total XP: 4 XP
+	- Total XP: 4 XP
+
+Next session during the day MLK Day before 6 CST

@@ -34,7 +34,7 @@
 	- A lean stranger with a caged cover over their mouth and black robes hands them a [[Adventures/Strange Piece of Paper\|Strange Piece of Paper]]
 		- Strange slanted, sharp text
 		- Image of concentric circles
-	- [[Stranger on the Road\|Stranger on the Road]]
+	- [[NPCs/Stranger on the Road\|Stranger on the Road]]
 			- Slanted pupils
 			- Greenish-yellow eyes
 			- Metal grate covering mouth

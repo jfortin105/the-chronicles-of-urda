@@ -1,0 +1,69 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260119/"}
+---
+
+## Mechanical
+- There will not be any magic shops selling magic items or wands
+# 17th of Vresh, year of 103, Fourth Age
+- Kyle's new character --> Name TBD....
+	- Strong sense of right and wrong
+		- Lawful Good
+	- background:
+		- abducted by cult
+		- Warrior caste --> serve and protect
+		- Forced to be facially scarred so they can't look down any one
+			- Stripped of identity, no real name
+- Carousing:
+	- Total party XP from carousing: 4
+	- GG: 14
+		- Milf-coded Gertie invites you to an orgy
+	- BB: 10
+		- Hooded figure at bar, hasn't touched their drink
+			- Staring into handheld mirror
+	- P: 10
+		- Rival crawler party catches your eye, whispering and pointing
+	- 22: 5
+		- You meet a 0-level character inherited a sword and an attitude. If you bring them with you, they gain at least 1 XP, and survive the journey, they become a level 1 ally
+- [[Characters/Blagbrag\|Blagbrag]] approaches hooded stranger
+	- "Are you possessed?"
+	- Takes his drink and walks away
+- Paulo approaches the mystery group of people
+	- everyone is on edge around them
+	- Tells Paulo to fuck off
+	- [[Factions/The Dark Lions\|The Dark Lions]] seem to know something about Paulo
+		- Tell him to go back to his "pastoral activities"
+- BB trauma dumps to hooded figure about Wawa's death
+- Paulo sits down next to stranger
+	- Apologies for his appearance, scars are a sign of honor
+	- Hard to clock age
+	- Traveling to "where he is supposed to be", ended up in [[Locations/Bywater\|Bywater]]
+		- trying to find out where he is supposed to be
+	- "I don't deserve a name"
+	- Purpose is not to seek glory
+	- "Well then, can I call you Scarface"
+	- Invites him to join the party
+	- Blagbrag talks about being possessed
+- Rival party leaves and goes off into the woods
+
+# 18th of Vresh, year of 103, Fourth Age
+- 22 lore dumps about his understanding of Saint Terragnis, which contains some factually false claims, to his new friend [[NPCs/Mariel\|Mariel]]
+- Scarface sleeps in the dirt because he doesn't believe he deserves anything
+	- Walks to [[NPCs/Ruthger Forstronge\|Ruthger Forstronge]]'s house
+	- uses mirror to watch where he is going / to navigate
+	- Large caravan wagon outside of Ruthger's house, laden with goods, every surface used to tie down goods
+	- Guarded by large orc, leaning back with their arms crossed
+- Gligliz reeks of sex
+- 22 introduces [[NPCs/Mariel\|Mariel]], his new follower
+- Return to Ruthger's
+	- Ruthger asks where Wawa is, Glizgliz is distraught
+	- Ruthger has a break-down
+		- "Another one can't die because of many, I can't lose anymore"
+	- Brynwulf gives a toast to Wawa and asks about Dragons
+	- Glizgliz tells the tale of the [[NPCs/Stranger on the Road\|Stranger on the Road]] and [[Adventures/Strange Piece of Paper\|Strange Piece of Paper]]
+- Dragon lore dump 
+	- [[Adventures/Strange Piece of Paper\|Strange Piece of Paper]] appears to be a recruitment script 
+	- References to cave dwellings "cleared out of rodents"
+		- Mortimis said "Winged beast attacked their home in 901"
+	- Brynwulf talks about returning to [[West Heath\|West Heath]]
+		- 3 days away from Bywater
+	- 
