@@ -11,4 +11,4 @@
 - Dragons spend most of their existence physically slumbering and awaken to feed and gain more knowledge of the universe
 - Every memory and experience of something that a Dragon consumes is absorbed by the Dragon and is added to the total sum of knowledge and experience. 
 - They have an unlimited memory and hunger for experience and understanding of all things
-- [[Dragon Cults\|Dragon Cults]] 
+- [[Lore/Dragon Cults\|Dragon Cults]] 

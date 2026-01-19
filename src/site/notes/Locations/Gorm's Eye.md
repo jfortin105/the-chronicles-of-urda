@@ -9,7 +9,7 @@
 	- [[Factions/Hecate Legion\|Hecate Legion]] rules from their keep, the [[Hecatrix\|Hecatrix]] which guards [[Locations/The Bronze Stairs\|The Bronze Stairs]] that descend into the [[Locations/Djurum\|Djurum]]
 # Locations
 - Temple of [[Lore/Ord\|Ord]]
-- [[The Grim Cage\|The Grim Cage]]
+- [[Locations/The Grim Cage\|The Grim Cage]]
 - [[Locations/The Bronze Stairs\|The Bronze Stairs]]
 
 ## Districts
