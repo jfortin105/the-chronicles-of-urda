@@ -62,16 +62,16 @@
 	- Brynwulf gives a toast to Wawa and asks about Dragons
 	- Glizgliz tells the tale of the [[NPCs/Stranger on the Road\|Stranger on the Road]] and [[Adventures/Strange Piece of Paper\|Strange Piece of Paper]]
 - Dragon lore dump 
-	- [[Adventures/Strange Piece of Paper\|Strange Piece of Paper]] appears to be a recruitment script for a growing [[Lore/Dragon Cults\|Dragon Cults]] that are trying to manifest a dragon named [[Azgomar\|Azgomar]]
+	- [[Adventures/Strange Piece of Paper\|Strange Piece of Paper]] appears to be a recruitment script for a growing [[Lore/Dragon Cults\|Dragon Cults]] that are trying to manifest a dragon named [[NPCs/Azgomar\|Azgomar]]
 	- References to cave dwellings "cleared out of rodents"
 		- Mortimis said "Winged beast attacked their home in 901"
-	- [[NPCs/Brynwulf\|Brynwulf]] talks about returning to [[West Heath\|West Heath]] to do more research on [[Azgomar\|Azgomar]]
+	- [[NPCs/Brynwulf\|Brynwulf]] talks about returning to [[West Heath\|West Heath]] to do more research on [[NPCs/Azgomar\|Azgomar]]
 		- 3 days away from Bywater
 		- Asks Party to keep dragon info on the DL
 	- Party decides to head to [[Locations/Gorm's Eye\|Gorm's Eye]] first
 - Gorm's Eye lore dump
 	- [[Factions/Chiropta\|Chiropta]] sieging the city for decades
-	- Gorm's Eye is ruled by the [[Factions/Hecate Legion\|Hecate Legion]] and the [[Masked Order\|Masked Order]]
+	- Gorm's Eye is ruled by the [[Factions/Hecate Legion\|Hecate Legion]] and the [[Factions/Masked Order\|Masked Order]]
 	- [[Locations/The Grim Cage\|The Grim Cage]] is a prison that Blagbrag was imprisoned in
 - Party leaves Bywater
 	- Maidan voyage of the Ruthger's Hope 

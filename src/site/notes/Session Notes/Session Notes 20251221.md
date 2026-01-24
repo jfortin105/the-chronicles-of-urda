@@ -8,7 +8,7 @@
 - Ruthger tells his lil story
 - traveling commences (502 - 603)
 	- Random Encounter 5 (502)
-		- [[Knight With No Name\|Knight With No Name]] investigating gnoll attack on rhino
+		- [[NPCs/Knight With No Name\|Knight With No Name]] investigating gnoll attack on rhino
 			- Kneeled investigating something in the grass around the rhino carcass
 				- Black iron, hinged mask, red horsehair plumage
 		- 603  no events
