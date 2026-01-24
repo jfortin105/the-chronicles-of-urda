@@ -46,8 +46,8 @@
 - Rival party leaves and goes off into the woods
 
 # 18th of Vresh, year of 103, Fourth Age
-- TRIPLE FULL NMOON
-- 22 lore dumps about his understanding of Saint Terragnis, which contains some factually false claims, to his new friend [[NPCs/Mariel\|Mariel]]
+- TRIPLE FULL MOON
+- 22 lore dumps about his understanding of [[Lore/Saint Terragnis\|Saint Terragnis]], which contains some factually false claims, to his new friend [[NPCs/Mariel\|Mariel]]
 - Scarface sleeps in the dirt because he doesn't believe he deserves anything
 	- Walks to [[NPCs/Ruthger Forstronge\|Ruthger Forstronge]]'s house
 	- uses mirror to watch where he is going / to navigate
@@ -65,7 +65,7 @@
 	- [[Adventures/Strange Piece of Paper\|Strange Piece of Paper]] appears to be a recruitment script for a growing [[Lore/Dragon Cults\|Dragon Cults]] that are trying to manifest a dragon named [[NPCs/Azgomar\|Azgomar]]
 	- References to cave dwellings "cleared out of rodents"
 		- Mortimis said "Winged beast attacked their home in 901"
-	- [[NPCs/Brynwulf\|Brynwulf]] talks about returning to [[West Heath\|West Heath]] to do more research on [[NPCs/Azgomar\|Azgomar]]
+	- [[NPCs/Brynwulf\|Brynwulf]] talks about returning to [[Locations/West Heath\|West Heath]] to do more research on [[NPCs/Azgomar\|Azgomar]]
 		- 3 days away from Bywater
 		- Asks Party to keep dragon info on the DL
 	- Party decides to head to [[Locations/Gorm's Eye\|Gorm's Eye]] first

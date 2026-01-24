@@ -12,4 +12,4 @@
 # Curse
 - None
 # Origin
-- [[Adventures/Citadel of the Scarlet Minotaur\|Citadel of the Scarlet Minotaur]]
+- [[Locations/Citadel of the Scarlet Minotaur\|Citadel of the Scarlet Minotaur]]

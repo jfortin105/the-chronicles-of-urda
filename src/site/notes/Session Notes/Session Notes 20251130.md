@@ -49,15 +49,15 @@
 	- femur bone as funeral effigy of a lost soldier on his hip
 	- urges party to stay out of the coven business
 	- Tells them the Marsden have a boat
-- Party decides to return to Bywater
+- Party decides to return to [[Locations/Bywater\|Bywater]]
 	- 504 -> 503 sleep no rest (1/3)
 	- 11th of Vresh, 103yr 4A
-	- 502 -> 13 gnolls hunting a rhino 
+	- 502 -> 13 [[Factions/Gnolls\|gnolls]] hunting a rhino 
 		- Party hides and waits them out until they leave
 	- Returns to Bywater and goes shopping
 		- Blagbrag buys a shield
 		- Paulo buys 3 rations and gives 1 to Glizgliz
-	- Meets back up with Ruthger
+	- Meets back up with [[NPCs/Ruthger Forstronge\|Ruthger Forstronge]]
 		- Makes them nasty soup (1 ration)
 		- relishes their stories
 		- Travelling merchant buddy who speaks draconic

@@ -16,8 +16,8 @@
 # 14th of Vresh, year of 103, Fourth Age
 - traveling commences (603-703)
 	- Random encounter 6 (603)
-		- Kobold sorcerer Mortimus preaches from atop a log
-			- GG recognizes as a Kobold
+		- Kobold sorcerer [[Mortimus\|Mortimus]] preaches from atop a log
+			- GG recognizes as a [[Ancestries/Kobolds\|Kobold]]
 				- 2 roll to know if Kobolds know draconic
 			- Kobold in a oversized big blue robes with a robe gesticulating loudly to a small group of 4 kobolds
 		- Speech
@@ -27,12 +27,12 @@
 			- Mortimus introduces himself and preaches his idea of capitalism 
 			- Winged beast attacked their home in 901 and they are looking for new homes
 				- heading to Gorm's Eye
-				- Maybe head into the Djurum where the administration is more amenable
+				- Maybe head into the [[Locations/Djurum\|Djurum]] where the administration is more "amenable"
 				- Paulo shows kobolds the magic mushrooms and tells them they could be used to make a fortune
 					- passes DC 15 CHAR check to bargain for 10 gp
 					- Mortimus buys mushrooms
 				- Kobolds leave
-- Arrive at Citadel
+- Arrive at [[Locations/Citadel of the Scarlet Minotaur\|Citadel of the Scarlet Minotaur]]
 - Rest for the night
 	- consume 1 ration
 	- Hear minotaur underground

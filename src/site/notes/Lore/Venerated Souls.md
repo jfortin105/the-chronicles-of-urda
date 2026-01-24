@@ -15,3 +15,8 @@
 - In the [[Lore/Fourth Age\|Fourth Age]], the Venerated Souls continues to be one of the most practiced Faiths
 	- attempted institutionalized by the [[Lore/Didachian Hegemony\|Didachian Hegemony]] broadened it's spread but also expanded its sense of decentralization
 
+# Saints and Martyrs
+- [[Lore/Saint Terragnis\|Saint Terragnis]]
+- [[Saint Ydris\|Saint Ydris]]
+- [[Lore/Saint Nargo\|Saint Nargo]]
+

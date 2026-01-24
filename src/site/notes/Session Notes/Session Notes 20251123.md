@@ -19,9 +19,9 @@
 	- 1x leather pouch of letters
 	- 1x lump of pulsating purple flesh
 	- 3 XP
-- Loginius Jest
-	- Letter telling Erwin Jest he's a failure and a disappointment
-	- Brother Arwin, who is in in the Hecate Legion and wildly successful
+- [[Loginius Jest\|Loginius Jest]]
+	- Letter telling [[NPCs/Erwin Jest\|Erwin Jest]] he's a failure and a disappointment
+	- Brother [[Arwin Jest\|Arwin Jest]], who is in in the Hecate Legion and wildly successful
 - Unsigned letter
 	- "The hag does not tolerate failure. If you do not succeed to your mission of folly, return to Haldrin's Tower"
 - Giant wurm!
@@ -30,7 +30,7 @@
 	- Hits the wurm once and flee
 - Major thanks them for the rescue
 	- Requires significant legion presence, will march to Gorm's Eye to talk to the Custodian of the Hecate Legion
-	- Unfamiliar with Haldrin's Tower, said that Archivists of Ord in Gorm's Eye might know of that location
+	- Unfamiliar with Haldrin's Tower, said that [[Factions/Masked Order\|Archivists of Ord]] in Gorm's Eye might know of that location
 - Farmers thank them for the rescue
 - Party returns to the tavern, Juma gives them free room and board for the night
 - Carousing!! 

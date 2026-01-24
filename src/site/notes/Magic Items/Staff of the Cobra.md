@@ -13,4 +13,4 @@
 # Curse
 - You have disadvantage on attacks and casting hostile spells targeting snakes.
 # Origin
-- [[Adventures/Citadel of the Scarlet Minotaur\|Citadel of the Scarlet Minotaur]]
+- [[NPCs/Ruthger Forstronge\|Ruthger Forstronge]]

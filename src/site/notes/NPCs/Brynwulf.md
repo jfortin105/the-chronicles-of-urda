@@ -10,6 +10,6 @@
 - Friend of [[NPCs/Ruthger Forstronge\|Ruthger Forstronge]]
 - Guarded by [[NPCs/Crouwe\|Crouwe]]
 	- Bonded after saving his life at the cost of his eyes
-- Resides in [[West Heath\|West Heath]]
+- Resides in [[Locations/West Heath\|West Heath]]
 ### Session Appearances
 - [[Session Notes/Session Notes 20260119\|Session Notes 20260119]]

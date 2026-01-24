@@ -59,7 +59,7 @@
 			- Noon time
 			- Maureen Marsden
 	- Neeta's Yard
-		- Neeta has a small ticket-booth kind of shed where she works. 
+		- [[NPCs/Neeta Oilsweep\|Neeta Oilsweep]] has a small ticket-booth kind of shed where she works. 
 			- Locks it with a big padlock
 			- locks gate to yard with padlock as well
 		- BB and GG hide to observe
