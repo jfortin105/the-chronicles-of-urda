@@ -52,7 +52,7 @@
 - Party decides to return to [[Locations/Bywater\|Bywater]]
 	- 504 -> 503 sleep no rest (1/3)
 	- 11th of Vresh, 103yr 4A
-	- 502 -> 13 [[Factions/Gnolls\|gnolls]] hunting a rhino 
+	- 502 -> 13 [[Gnolls 1\|Gnolls 1]] hunting a rhino 
 		- Party hides and waits them out until they leave
 	- Returns to Bywater and goes shopping
 		- Blagbrag buys a shield

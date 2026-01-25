@@ -30,6 +30,7 @@
 ## Districts
 - [[Feedlot\|Feedlot]]
 	- Peasant housing, cottage industries
+	- Agricultural processing
 - [[Leatherteeth\|Leatherteeth]]
 	- dense urban slums
 - [[Greenlawn\|Greenlawn]]
