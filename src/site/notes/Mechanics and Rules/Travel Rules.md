@@ -23,3 +23,7 @@
 - PCs take 1 CON damage each day after that 
 	- Death at 0 CON
 - PCs can forage for 1 ration per day with an INT check
+
+# Boat Docks
+- 1 gp per day for common dock
+- pay down days 

@@ -1,0 +1,95 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260125/"}
+---
+
+
+# 18th of Vresh, year of 103, Fourth Age
+- Party departs
+- Large barge passes them and hails them to trade (408)
+	- Appraise goods?
+- Barge trader rolled 
+	- 32 Ceremonial, gold-capped Warhammer (40 GP)
+	- 81 Suit of blackened-steel plate mail (130 GP)
+- Are they sussy???
+- Offers 157gp for the [[Magic Items/Golden Brooch of a Scarab\|Golden Brooch of a Scarab]]
+	- DENIED
+- Sells cracked emerald for 120 gp
+	- Mariel does not get any money!!!
+- Blagbrag sells shortsword for 7 gp
+- Trader offers 5 sp for bronze key from [[Locations/Citadel of the Scarlet Minotaur\|Citadel of the Scarlet Minotaur]]
+	- Paulo crits to barter for 10 gp!!
+	- Pays
+- 22 dangles Wawa's eye to the traders who ask them to leave pointedly
+	- canonically salted his eye
+- Traders depart
+- Glizgliz casts detect magic and dons the [[Magic Items/Golden Brooch of a Scarab\|Golden Brooch of a Scarab]]
+- Approach [[Locations/Gorm's Eye\|Gorm's Eye]] at end of day
+- Coming in through [[River Gate\|River Gate]]
+- Scarface has never been to a city this big before
+	- not allowing himself to witness beauty
+- 22 and [[NPCs/Mariel\|Mariel]] hop out of the boat
+- bard discount on lodging when performing
+- 1gp per day for boat lodging
+- pay for 2 days in [[Feedlot\|Feedlot]]
+- Statue of [[Lore/Arrhidaeus\|Arrhidaeus]]
+	- Heroic figure with sword held high, icons carved into the base of statue of different [[Lore/Tagmata\|Tagmata]] divisions. Icons scratched out except for the Eye of the [[Factions/Hecate Legion\|Hecate Legion]]
+- 22 and [[NPCs/Mariel\|Mariel]] preach in the streets of the [[Feedlot\|Feedlot]] about [[Lore/Saint Terragnis\|Saint Terragnis]]
+	- rolled 15 to find out there's a shrine near the Road Gate in the belly of the feedlot
+	- gives each 3 gp
+	- 22 winces whenever Marial talks
+- The others enter [[Leatherteeth\|Leatherteeth]]
+	- Boot Pit
+		- Bartender is the plug
+			- Fargus the gnome bartender with 7 fingers
+				- 4 left hand
+				- 3 right hand
+				- HAS THUMBS
+			- Fargus offers warehouse across the street for them to use for a few days before "merchandise arrives"
+		- Irnur and the Boatboys playing tonight
+		- Paulo convinces them to fire Irnur and hire glizgliz instead
+			- Passed CHAR check
+			- Glizgliz rolls 21 to land the gig
+		- Fargus tells them refugees from [[Locations/Atwell\|Atwell]] are in [[The Edge\|The Edge]]
+- 22 and [[NPCs/Mariel\|Mariel]] find shrine of [[Lore/Saint Terragnis\|Saint Terragnis]]
+	- prostrate in front of building
+	- gives 2 gp into alms box
+	- Mariel asks for money, 22 gives it to him, Mariel puts in the alms box
+	- 22 approaches Jala the Elf as they leave the shrine
+		- From [[Locations/West Heath\|West Heath]]
+		- Tells 22 about shrine to [[Lore/Saint Terragnis\|Saint Terragnis]], reliquary of locks of the saints hair, brings solemnity of mind
+		- Cautions prudence with radicalizing peasants
+		- better to be poor than to be dead to the beasts from the desert
+		- Catapult attacks in inner districts of Gorm's Eye 
+	- 22 approaches Kresh the Half-Orc as they leave the shrine
+		- Family left his horde and settles in Gorm's Eye
+		- [[Factions/Masked Order\|Masked Order]] is amassing immeasurable wealth from selling and studying the ooze from the [[Locations/The Weeping Eye\|The Weeping Eye]]
+		- Wealth should be distributed
+		- 22 agrees to meet Kresh the following day with a pamphlet
+- Bard core gang gets ready for performance
+	- Crowbar the pyrotechnic wizard
+		- eyebrow peircings and knuckle tattoos
+	- Performance roll 21
+		- 75 gold
+		- 1 xp
+- Scarface "doesn't deserve music" and "doesn't deserve anything"
+	- Paulo gives him money
+- everyone gets 1 xp
+	- 22 and mariel get it from the shrine
+		- mariel now online
+- 22 and mariel preach on street corner 
+	- no-one comes to let them in
+	- sleep on street corner
+	- in the middle of the night, wake up to someone rifling through their pockets
+	- Swings their staff and cracks a dude on the head
+	- dude says he thought 22 was dead
+		- says he's a rebel 
+		- Named Jacob
+		- friends were taken and experimented on the [[Factions/Masked Order\|Masked Order]]
+		- tells 22 to prove himself to the movement
+- bard group
+	- Paulo gets sloshed and walks around the city, Scarface follows
+		- visits his parents house but gets lost on the way back
+	- BB and GG sleep in warehouse
+- 22 goes to find a scriptorium
+	- halfling beyond the counter
+	- Leaves for [[Bullway\|Bullway]]
