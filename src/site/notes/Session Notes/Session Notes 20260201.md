@@ -1,0 +1,149 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260201/"}
+---
+
+# 19th of Vresh, year of 103, Fourth Age
+- Paulo tries to find his families estate
+	- [[Cresha Arduinas\|Cresha Arduinas]] approaches out of the darkness
+		- makes fun of his predicament
+		- throws her cigarette behind her back for him
+	- Gets lost in [[Locations/Mongtown\|Mongtown]]
+		- pisses
+- 22 and Mariel go into the [[Locations/Bullway\|Bullway]] for a scriptorium to make pamphlet
+	- Enters [[House of the Silver\|House of the Silver]]
+		- "Who here represents the peasantry?"
+		- Repeats himself and with charisma
+			- CHAR check with advantage
+		- Approached by [[Grendel\|Grendel]]
+			- older, stooped scribe with scraggly beard
+			- tells 22 that everyone is taxed to fund the [[Factions/Hecate Legion\|Hecate Legion]] with a regressive sales tax
+			- businesses are faltering from seige
+			- Legion rations and silos products and livestock from the countryside
+			- Mariel is picking his nose
+	- Finds a printer operated by a halfling
+		- 22 scoffs
+		- 10 gp gets 100 pamphlets by tomorrow evening for all
+			- 7 gp gets 75 by tomorrow evening
+		- 15 gp gets 100 pamphlets tomorrow at noon
+			- 13 gp 75 tomorrow at noon
+		- 22 pays 15 gp for them by noon 
+			- takes 3 blank posters
+		- 22 is a racist
+		- 'pissants'
+	- Returns to [[Feedlot\|Feedlot]] and makes posters, meet at temple at 3 pm
+	- Paulo sleeps in the same alley he pisses in, "marking his territory" in [[Locations/Mongtown\|Mongtown]]
+		- Not his first rodeo
+		- Scarface follows on
+
+# 20th of Vresh, year of 103, Fourth Age
+- You awake in another bustling day
+- Glizgliz and Blagbrag wake up and find no one else has returned home
+	- Blagbrag spooked about [[Factions/Masked Order\|Masked Order]]
+	- stick around to hold down the fort
+	- Glizgliz gives oration lessons to Blagbrag
+		- Learning downtime to learn oration
+			- I statements
+		- Blagbrag crits to learn oration and complete sentences
+			- new experience!
+	- blagbrag gives scimitar lessons to glizgliz
+		- learning roll
+			- failed on an 8
+				- Next time, DC 17 check
+			- burns luck token
+- Paulo wakes up in [[Locations/Mongtown\|Mongtown]]
+	- The Pool of Radiance: 
+		- A small pool of water, which glows with a flickering blue light. It is said to be haunted by a malevolent spirit, waiting for a worthy creature to possess. The local townsfolk avoid it.
+	- The Clock Tower: 
+		- A magical clock, set into a monolith of weathered stone. It was constructed by a dwarven craftsman long ago, and has kept perfect time since.
+	- Checks time - 9 AM
+	- Tries to find his dealer - rolled 15
+		- Kestral
+			- Elf
+			- hangs out at [[The Kennell\|The Kennell]]
+				- Notorious fighting point owned by [[Vodos the Brazen\|Vodos the Brazen]]
+	- Departs with scarface
+- 22 wakes up on the streets of the [[Feedlot\|Feedlot]], covered in dust as traffic rolls around him
+	- put up all the signs last night while resting
+	- street preaching
+		- rolled 18
+			- people begin to gather around him
+			- uses Mariel as an example
+	- Waiting until 12
+- 10 AM paulo gets to  [[The Kennell\|The Kennell]]
+	- Big arena - colosseum falling into disrepair
+		- dive bar fight club in the middle of giant ruins
+		- line of people to get checked by bouncers
+			- Waits in line
+- NOON
+	- 22 goes to printers 
+		- young halfling has his papers ready
+			- job is decent
+	- [[Thrakis\|Thrakis]] the bouncer recognizes Paulo at [[The Kennell\|The Kennell]]
+		- waves him in
+		- Whispers "I hear some people are looking for you"
+	- Main bout of the day
+		- [[Vodos the Brazen\|Vodos the Brazen]] allows one challenger a day to face him
+			- will give his entire fortune if he is bested but never has been
+			- yellow wasp ish markings
+			- has a big throne overlooking the arena
+		- 
+	- [[Factions/Sigil of the Storm Fist\|Knight in red/blue]] offers challenge
+		- Paulo approaches
+			- Fight to first blood
+			- street rules
+		- there every day
+		- Calls Paulo a coward
+			- Paulo gets pissed
+	- Paul looks for Kestral
+- BB and GG get another gig from Fargus
+	- lost some fingers but also grew more
+- Main bout of the day
+	- Kestral approaches
+		- Umber
+			- downers
+		- Goat Piss
+			- Uppers
+			- naturally sourced methamphetamine
+			- Piss Goblins
+			- 15 gp for 3 vials
+				- gives 16 gold - keep the tip
+		- tells Paulo about [[Factions/Sigil of the Storm Fist\|Sigil of the Storm Fist]] and the guy out front
+	- Asks about what Thrakis said
+		- Failed CHAR check
+	- Paulo nicks the [[Factions/Sigil of the Storm Fist\|Sigil of the Storm Fist]] knight from behind
+		- "you broke the rules"
+		- Gets told off by the arena judge
+		- knight tells him to meet him that evening to finish this off
+- 22's meeting commences
+	- uses 2 luck tokens
+	- 6 people show up and wait for 22 to start
+		- [[Kresh\|Kresh]] and [[Jala\|Jala]]
+		- 4 other people
+			- Ophelia
+			- Fronk the Goblin
+			- Kiara
+			- Torvash
+		- Mariel says we need some bitches now
+	- 22 gives his big speech
+		- Wawa the martyr and his eye
+		- peasant class overview
+			- militant peasant army
+			- Seize power with force
+			- remove sales tax
+			- mutual aid network
+			- labor strike
+			- pilgrimage to [[Locations/West Heath\|West Heath]]
+			- CHAR check
+				- 19!!
+				- "how did you come to such wisdom"
+					- spins his tale
+			- Upcoming [[Lore/Venerated Souls\|Venerated Souls]] conclave in [[Locations/West Heath\|West Heath]] in 20 days
+			- Planning on group pilgrimage, sends [[Jala\|Jala]] and [[Kresh\|Kresh]] to attract more followers
+			- Need to get newspaper running
+				- group chips 6 gp to cover cost of first print run
+					- Will sell each copy for 1sp to recoup losses
+			- We need to arm ourselves
+				- group nods along
+			- Kresh will look into income inequality
+			- Asks about [[Factions/Agulhas Family\|Agulhas Family]]
+			- 

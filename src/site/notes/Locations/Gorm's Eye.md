@@ -17,6 +17,7 @@
 - [[Locations/The Weeping Eye\|The Weeping Eye]]
 - [[Locations/The Grim Cage\|The Grim Cage]]
 - [[Locations/The Bronze Stairs\|The Bronze Stairs]]
+- [[Locations/Caverns of Metamorphosis\|Caverns of Metamorphosis]]
 - [[Hecatrix\|Hecatrix]]
 - [[Lemon and Fig\|Lemon and Fig]]
 - [[Lime and Frog\|Lime and Frog]]
@@ -31,17 +32,17 @@
 - [[Feedlot\|Feedlot]]
 	- Peasant housing, cottage industries
 	- Agricultural processing
-- [[Leatherteeth\|Leatherteeth]]
+- [[Locations/Leatherteeth\|Leatherteeth]]
 	- dense urban slums
-- [[Greenlawn\|Greenlawn]]
+- [[Locations/Greenlawn\|Greenlawn]]
 	- Aristocratic estates
-- [[Mongtown\|Mongtown]]
+- [[Locations/Mongtown\|Mongtown]]
 	- Warehouses, workshops, industrial area
-- [[Bullway\|Bullway]]
+- [[Locations/Bullway\|Bullway]]
 	- Broadway of bazaars, merchant guilds, and shops
-	- home of the [[Bronze Consortium\|Bronze Consortium]]
+	- home of the [[Golden Consortium\|Golden Consortium]]
 - [[The Edge\|The Edge]]
-	- religious district, temples, monasteries
+	- religious district, temples, monasteries, houses of healing
 	- Overlooks the cliff on to the [[Locations/Djurum\|Djurum]]
 - [[Locations/The Weeping Eye\|The Weeping Eye]]
 	- Temple of [[Lore/Ord\|Ord]], home of the [[Factions/Masked Order\|Masked Order]]

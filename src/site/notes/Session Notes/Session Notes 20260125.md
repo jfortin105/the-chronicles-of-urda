@@ -37,7 +37,7 @@
 	- rolled 15 to find out there's a shrine near the Road Gate in the belly of the feedlot
 	- gives each 3 gp
 	- 22 winces whenever Marial talks
-- The others enter [[Leatherteeth\|Leatherteeth]]
+- The others enter [[Locations/Leatherteeth\|Leatherteeth]]
 	- Boot Pit
 		- Bartender is the plug
 			- Fargus the gnome bartender with 7 fingers
@@ -54,13 +54,13 @@
 	- prostrate in front of building
 	- gives 2 gp into alms box
 	- Mariel asks for money, 22 gives it to him, Mariel puts in the alms box
-	- 22 approaches Jala the Elf as they leave the shrine
+	- 22 approaches [[Jala\|Jala]] the Elf as they leave the shrine
 		- From [[Locations/West Heath\|West Heath]]
 		- Tells 22 about shrine to [[Lore/Saint Terragnis\|Saint Terragnis]], reliquary of locks of the saints hair, brings solemnity of mind
 		- Cautions prudence with radicalizing peasants
 		- better to be poor than to be dead to the beasts from the desert
 		- Catapult attacks in inner districts of Gorm's Eye 
-	- 22 approaches Kresh the Half-Orc as they leave the shrine
+	- 22 approaches [[Kresh\|Kresh]] the Half-Orc as they leave the shrine
 		- Family left his horde and settles in Gorm's Eye
 		- [[Factions/Masked Order\|Masked Order]] is amassing immeasurable wealth from selling and studying the ooze from the [[Locations/The Weeping Eye\|The Weeping Eye]]
 		- Wealth should be distributed
@@ -92,4 +92,4 @@
 	- BB and GG sleep in warehouse
 - 22 goes to find a scriptorium
 	- halfling beyond the counter
-	- Leaves for [[Bullway\|Bullway]]
+	- Leaves for [[Locations/Bullway\|Bullway]]
