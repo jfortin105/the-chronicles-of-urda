@@ -1,0 +1,130 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260207/"}
+---
+
+# 20th of Vresh, year of 103, Fourth Age
+- Evening:
+	- Paulo and Scarface (16):
+		- At [[The Kennell\|The Kennell]]
+		- Knight in quartered red/blue
+	- Blagbrag and Glizgliz )9)
+		- hanging out in warehouse in [[Locations/Leatherteeth\|Leatherteeth]] waiting for gig to start at the [[Boot Pit\|Boot Pit]]
+	- 22 and [[NPCs/Mariel\|Mariel]] (10):
+		- [[Feedlot\|Feedlot]]
+- Blagbrag and Glizgliz perform at the [[Boot Pit\|Boot Pit]]
+	- gives a great performance DC15 CHAR
+		- Reward:
+			- 86 gold
+				- split between the pair
+				- Paulo gets 22 gold
+			- 1 XP for all 
+			- 1x scuffed heavy shield
+	- Overhears table in the corner talking about Atwellian refugees
+		- Catapult destroyed a building and crushed some refugees in the Temple of [[Lore/Gede\|Gede]]
+	- waiting for Paulo
+- 22 and [[NPCs/Mariel\|Mariel]]
+	- printed copies available tomorrow at noon
+	- meeting is dispersing
+	- Ask around about [[Factions/Agulhas Family\|Agulhas Family]] Manor 
+		- 18 CHAR check
+		- in [[Locations/Greenlawn\|Greenlawn]] on Summit Street
+	- street urchin child runs up to you and hands you a crumpled note
+		- "You speak fancy words - come into the Caves so that we can see your actions"
+		- Crude sketch of horseshoe smithies
+			- Stalei's Smithy
+	- Arrive in [[Locations/Greenlawn\|Greenlawn]]
+		- Encounters [[Duarte Agulhas\|Duarte Agulhas]] watering his orchids
+		- Quiet streets
+		- 22 approaches
+			- snaps over Lasandra to remove 22 
+				- Duarte is like Leonard DiCaprio 
+			- 22 begs Duarte to take in [[NPCs/Mariel\|Mariel]] as a servant
+				- pass disadv 18 CHAR check to persuade Duarte to consider
+				- [[NPCs/Mariel\|Mariel]] fails char check for promising work
+				- Duarte offers [[NPCs/Mariel\|Mariel]] a job in the stables
+					- 22 instructors [[NPCs/Mariel\|Mariel]] to be an inside mole at the [[Factions/Agulhas Family\|Agulhas Family]]
+						- rolled 4
+					- 22 tells [[NPCs/Mariel\|Mariel]] i like you a lot
+					- 1/2 paycheck goes to the newspaper
+- Paulo and Scarface
+	- Return to the [[Boot Pit\|Boot Pit]] for the show and recruits glizgliz and blagbrag to join for the fight
+	- Knight is focused walking away
+- Reunion in the [[Boot Pit\|Boot Pit]]
+	- no one knows where 22 is, leave to [[Feedlot\|Feedlot]]
+	- Can't find 22 at Shrine of Terragnis
+	- squad of [[Factions/Hecate Legion\|Hecate Legion]] passes them in the streets trying to recruit
+- 22 wanders towards the Shone of [[Lore/Saint Terragnis\|Saint Terragnis]] and finds the gang
+	- "movement has motion now"
+	- 22 immediately asks for money
+		- Paulo gives 7 gp if 22 goes to bathhouse
+			-  Glizgliz gives 10gp on the same conditions
+			- makes a big speech about how he is taking a bath but the next issue of newspaper with inside scoop of the [[Factions/Agulhas Family\|Agulhas Family]]
+				- Paulo is confused
+	- 22 and Scarface have theological discourse
+		- "have you considered self-mutilation"
+		- Scarfaces confesses he is a eunuch
+			- part of his training
+			- scarring face was his last step
+		- Paulo offers to redistribute his wealth to 22
+			- "take this as your punishment then to take a bath"
+			- 22 will only bathe if Paulo pays for everyone on the street
+				- 5 gp total
+			- Glizgliz offers to be the editor for the newspaper
+	- Takes a bath
+		- everyone stares at Scarface
+		- 22 tells Paulo his plan
+			- Paulo divulges his family story
+				- spoke out against his family and was excommunicated and kicked out
+				- art scene
+				- has to lie low
+				- family name carries weight
+				- Rivals of the [[Factions/Arduinas Family\|Arduinas Family]]
+					- Competing interests and competing for control of the [[Golden Consortium\|Golden Consortium]], a chamber of commerce like organization of merchant families
+				- 22 asks for information to bring down the Families
+	- Paulo is woke Jake Paul
+	- Leaves for [[The Kennell\|The Kennell]]
+		- Knight has 2 swords, a shield, and a spear
+		- Paulo takes 1 vial of goatpiss
+			- DC 12 CON check
+				- +2 STR & DEX (to modifiers)
+				- -2 WIS & INT (to modifiers)
+				- 1 hour IRL
+		- Knight proclaims we fight until one of us goes 
+			- Disarmed + knocked down, unconscious, or dead
+			- "Who will be judge?"
+				- Blagbrag
+- Fight commences:
+	- Initiative
+		- Knight: 7
+		- Paulo: 20
+	- Knight slices Paulo and knocks him down
+		- "Remember the rules of the arena"
+		- [[Magic Items/Golden Brooch of a Scarab\|Golden Brooch of a Scarab]] does nothing
+		- uses health potion
+- 22 asks if Paulo knows where to find the location in his note
+	- knows the shop but not where to find the cave
+- Party decides to rest but 22 carries on
+	- Blagbrag, Paulo, Glizgliz consume rations
+	- Scarface does not consume rations
+	- Party to meet at shop if 22 doesn't come back
+	- Goes to Salei's Smithies
+		- follows alley to a large drain grate that is a bit ajar
+	- Comes out of drain into stone cavern
+		- lights a torch and reveals 4 stingbats
+		- COMBAT
+			- INT
+				- SB1 = 18
+				- SB2 = 18
+				- SB3 = 16
+				- SB4 = 13
+			- SB1 hits and attaches
+			- SB2 hits and attaches
+			- 22 tries to sweep them off
+				- DC 12 STR to sweep off both
+				- Fails twice, then succeeds
+			- 22 runs off and escapes
+			- Takes a ration and sleeps outside the grate
+
+# 21th of Vresh, year of 103, Fourth Age
+- Warehouse crew, wake up without 22
+	- Go shopping for rations

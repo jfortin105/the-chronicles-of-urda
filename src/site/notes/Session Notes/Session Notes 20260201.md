@@ -113,7 +113,7 @@
 	- Paulo nicks the [[Factions/Sigil of the Storm Fist\|Sigil of the Storm Fist]] knight from behind
 		- "you broke the rules"
 		- Gets told off by the arena judge
-		- knight tells him to meet him that evening to finish this off
+		- knight tells him to meet him that evening at midnight to finish this off
 - 22's meeting commences
 	- uses 2 luck tokens
 	- 6 people show up and wait for 22 to start
@@ -146,4 +146,4 @@
 				- group nods along
 			- Kresh will look into income inequality
 			- Asks about [[Factions/Agulhas Family\|Agulhas Family]]
-			- 
+		- 
