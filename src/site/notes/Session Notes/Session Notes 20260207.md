@@ -128,4 +128,8 @@
 # 21th of Vresh, year of 103, Fourth Age
 - Warehouse crew, wake up without 22
 	- Go shopping for rations
-	- 
+	- Parking needs to be paid
+		- 1 gp per day for boat lodging
+		- BB pays for 3 more days (3 gp)
+- 22 wants to have a scar from stingbat attack
+- 

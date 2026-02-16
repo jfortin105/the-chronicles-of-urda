@@ -1,0 +1,80 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260215/"}
+---
+
+
+# 21th of Vresh, year of 103, Fourth Age
+- Warehouse crew, wake up without 22
+	- Go shopping for rations
+		- Paulo buys 3 rations for 5 sp
+		- Glizgliz buys 3 rations
+	- Parking needs to be paid
+		- 1 gp per day for boat lodging
+		- BB pays for 3 more days (3 gp)
+- 22 wants to have a scar from stingbat attack
+- [[Sadera’s House of Curiosities\|Sadera’s House of Curiosities]]
+	- Ring of Feather Falling (250 gp)
+	- Egg of The Cockatrice (100 gp)
+	- Potions
+		- Healing Potion (10 gp)
+		- Mystery Potion (5 gp)
+			- Citrus smelling green fumes
+			- Effects
+				- Positive Benefit: 8
+					- 
+				- Potion Curse: 9
+	- Glizgliz buys 1 HP and 1 mystery
+	- Paulo bought 1 HP
+- [[Rusted Regalia\|Rusted Regalia]]
+	- BB buys stained chainmail for 50 gp
+	- When Paulo enters, head smith grabs his arm
+		- "Some people are looking for you - some nasty people"
+			- "Angry halfling women with an eye patch"
+				- Recognizes as [[NPCs/Katrina the Red\|Katrina the Red]]
+- [[The Theater of Amos\|The Theater of Amos]]
+- 22 wakes up and washes his wounds in street water
+	- rolled 16
+- [[Kresh\|Kresh]] is waiting for 22 in the Shrine of Saint Terragnis
+	- Preacher in [[Locations/The Edge\|The Edge]] is telling people about a new revolutionary community where a new patron is offering salvation from suffering
+		- Kresh and others are leaving
+		- Argues with 22 about heeding the call
+			- We have no time, we are leaving now
+		- 22 gives him 2 gp and Kresh agrees to write him a letter in 1 week
+		- z
+- Puts up flyer at shrine
+	- "Meet here at 12:30 PM to talk newspaper distribution"
+- Runs to print shop and grabs newspaper
+	- Already paid
+	- 15 for gp for 150 copies
+- [[Jala\|Jala]] is the only person who shows up to help with newspapers
+	- Kobolds escaped from their homes to Gorm's Eye recently, sounds like they came from the same area where the commune is supposed to be starting
+	- CHAR check to convince [[Jala\|Jala]] to help with the newspaper
+		- DC 15 check passed
+		- Head to Mongtown
+			- DC 15 CHAR passed to hangout
+				- 2 cargo loaders take pamphlets and seem interested
+				- Take 1 each
+				- Tell him to try [[Locations/Leatherteeth\|Leatherteeth]] for less exposure
+		- Heads to Temple
+- Party reunites at Shrine of Saint Terragnis
+	- Scarface believes stringbat wounds are self-mutilation
+	- 22 asks for help distributing newspapers
+		- Scarface asks what the pamphlets mean...
+			- "Happy to spread the message"
+- Party plan
+	- Go to [[Boot Pit\|Boot Pit]] to get concert and lodging
+	- Drop off newspaper at [[Locations/The Kennell\|The Kennell]]
+		- Asks Thrakis the bouncer to sell copies
+			- Will need to get [[Vodos the Brazen\|Vodos the Brazen's]] approval to sell pamphlets at concessions
+			- Paul pays 22 for 10 copies and pass them around
+				- get it in to people's hands
+			- Paulo sees the knight in red/blue and approaches with a newspaper
+				- Trying to recruit in to his Order [[Factions/Sigil of the Storm Fist\|Sigil of the Storm Fist]]
+				- Knight scoffs at the newspaper due to the dangers and nature of the world
+	- Go to [[Locations/The Edge\|The Edge]] to find [[Locations/Atwell\|Atwell]] refugees
+		- Staying at Temple of Gede 
+			- Vedana is very familiar to [[Factions/Agulhas Family\|Agulhas Family]]
+				- Paulo approaches and asks about [[Locations/Atwell\|Atwell]] refugees
+					- Surprised he is back in town
+						-
+			- Riardan --> 
