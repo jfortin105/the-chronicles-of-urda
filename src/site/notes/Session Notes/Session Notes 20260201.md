@@ -4,13 +4,13 @@
 
 # 19th of Vresh, year of 103, Fourth Age
 - Paulo tries to find his families estate
-	- [[Cresha Arduinas\|Cresha Arduinas]] approaches out of the darkness
+	- [[NPCs/Cresha Arduinas\|Cresha Arduinas]] approaches out of the darkness
 		- makes fun of his predicament
 		- throws her cigarette behind her back for him
 	- Gets lost in [[Locations/Mongtown\|Mongtown]]
 		- pisses
 - 22 and Mariel go into the [[Locations/Bullway\|Bullway]] for a scriptorium to make pamphlet
-	- Enters [[House of the Silver\|House of the Silver]]
+	- Enters [[Locations/House of the Silver\|House of the Silver]]
 		- "Who here represents the peasantry?"
 		- Repeats himself and with charisma
 			- CHAR check with advantage
@@ -30,7 +30,7 @@
 			- takes 3 blank posters
 		- 22 is a racist
 		- 'pissants'
-	- Returns to [[Feedlot\|Feedlot]] and makes posters, meet at temple at 3 pm
+	- Returns to [[Locations/Feedlot\|Feedlot]] and makes posters, meet at temple at 3 pm
 	- Paulo sleeps in the same alley he pisses in, "marking his territory" in [[Locations/Mongtown\|Mongtown]]
 		- Not his first rodeo
 		- Scarface follows on
@@ -59,17 +59,17 @@
 	- Tries to find his dealer - rolled 15
 		- Kestral
 			- Elf
-			- hangs out at [[The Kennell\|The Kennell]]
+			- hangs out at [[Locations/The Kennell\|The Kennell]]
 				- Notorious fighting point owned by [[Vodos the Brazen\|Vodos the Brazen]]
 	- Departs with scarface
-- 22 wakes up on the streets of the [[Feedlot\|Feedlot]], covered in dust as traffic rolls around him
+- 22 wakes up on the streets of the [[Locations/Feedlot\|Feedlot]], covered in dust as traffic rolls around him
 	- put up all the signs last night while resting
 	- street preaching
 		- rolled 18
 			- people begin to gather around him
 			- uses Mariel as an example
 	- Waiting until 12
-- 10 AM paulo gets to  [[The Kennell\|The Kennell]]
+- 10 AM paulo gets to  [[Locations/The Kennell\|The Kennell]]
 	- Big arena - colosseum falling into disrepair
 		- dive bar fight club in the middle of giant ruins
 		- line of people to get checked by bouncers
@@ -78,7 +78,7 @@
 	- 22 goes to printers 
 		- young halfling has his papers ready
 			- job is decent
-	- [[Thrakis\|Thrakis]] the bouncer recognizes Paulo at [[The Kennell\|The Kennell]]
+	- [[Thrakis\|Thrakis]] the bouncer recognizes Paulo at [[Locations/The Kennell\|The Kennell]]
 		- waves him in
 		- Whispers "I hear some people are looking for you"
 	- Main bout of the day

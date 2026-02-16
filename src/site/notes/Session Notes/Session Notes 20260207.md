@@ -5,12 +5,12 @@
 # 20th of Vresh, year of 103, Fourth Age
 - Evening:
 	- Paulo and Scarface (16):
-		- At [[The Kennell\|The Kennell]]
+		- At [[Locations/The Kennell\|The Kennell]]
 		- Knight in quartered red/blue
 	- Blagbrag and Glizgliz )9)
 		- hanging out in warehouse in [[Locations/Leatherteeth\|Leatherteeth]] waiting for gig to start at the [[Boot Pit\|Boot Pit]]
 	- 22 and [[NPCs/Mariel\|Mariel]] (10):
-		- [[Feedlot\|Feedlot]]
+		- [[Locations/Feedlot\|Feedlot]]
 - Blagbrag and Glizgliz perform at the [[Boot Pit\|Boot Pit]]
 	- gives a great performance DC15 CHAR
 		- Reward:
@@ -33,7 +33,7 @@
 		- Crude sketch of horseshoe smithies
 			- Stalei's Smithy
 	- Arrive in [[Locations/Greenlawn\|Greenlawn]]
-		- Encounters [[Duarte Agulhas\|Duarte Agulhas]] watering his orchids
+		- Encounters [[NPCs/Duarte Agulhas\|Duarte Agulhas]] watering his orchids
 		- Quiet streets
 		- 22 approaches
 			- snaps over Lasandra to remove 22 
@@ -50,7 +50,7 @@
 	- Return to the [[Boot Pit\|Boot Pit]] for the show and recruits glizgliz and blagbrag to join for the fight
 	- Knight is focused walking away
 - Reunion in the [[Boot Pit\|Boot Pit]]
-	- no one knows where 22 is, leave to [[Feedlot\|Feedlot]]
+	- no one knows where 22 is, leave to [[Locations/Feedlot\|Feedlot]]
 	- Can't find 22 at Shrine of Terragnis
 	- squad of [[Factions/Hecate Legion\|Hecate Legion]] passes them in the streets trying to recruit
 - 22 wanders towards the Shone of [[Lore/Saint Terragnis\|Saint Terragnis]] and finds the gang
@@ -82,7 +82,7 @@
 					- Competing interests and competing for control of the [[Golden Consortium\|Golden Consortium]], a chamber of commerce like organization of merchant families
 				- 22 asks for information to bring down the Families
 	- Paulo is woke Jake Paul
-	- Leaves for [[The Kennell\|The Kennell]]
+	- Leaves for [[Locations/The Kennell\|The Kennell]]
 		- Knight has 2 swords, a shield, and a spear
 		- Paulo takes 1 vial of goatpiss
 			- DC 12 CON check
@@ -128,3 +128,4 @@
 # 21th of Vresh, year of 103, Fourth Age
 - Warehouse crew, wake up without 22
 	- Go shopping for rations
+	- 

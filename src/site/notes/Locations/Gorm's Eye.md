@@ -19,8 +19,8 @@
 - [[Locations/The Bronze Stairs\|The Bronze Stairs]]
 - [[Locations/Caverns of Metamorphosis\|Caverns of Metamorphosis]]
 - [[Hecatrix\|Hecatrix]]
-- [[Lemon and Fig\|Lemon and Fig]]
-- [[Lime and Frog\|Lime and Frog]]
+- [[Locations/Lemon and Fig\|Lemon and Fig]]
+- [[Locations/Lime and Frog\|Lime and Frog]]
 
 # People
 - [[Velar Orhando\|Velar Orhando]]
@@ -29,7 +29,7 @@
 
 # Notes
 ## Districts
-- [[Feedlot\|Feedlot]]
+- [[Locations/Feedlot\|Feedlot]]
 	- Peasant housing, cottage industries
 	- Agricultural processing
 - [[Locations/Leatherteeth\|Leatherteeth]]
@@ -41,7 +41,7 @@
 - [[Locations/Bullway\|Bullway]]
 	- Broadway of bazaars, merchant guilds, and shops
 	- home of the [[Golden Consortium\|Golden Consortium]]
-- [[The Edge\|The Edge]]
+- [[Locations/The Edge\|The Edge]]
 	- religious district, temples, monasteries, houses of healing
 	- Overlooks the cliff on to the [[Locations/Djurum\|Djurum]]
 - [[Locations/The Weeping Eye\|The Weeping Eye]]

@@ -14,10 +14,10 @@
 - takes the stairs up into twilight
 - Giuseppe has a breakdown
 	- vomits when 22 gives him a piece of his robe
-	- [[Lemon and Fig\|Lemon and Fig]] 
+	- [[Locations/Lemon and Fig\|Lemon and Fig]] 
 		- High-end retail herbalist chain in [[Locations/Gorm's Eye\|Gorm's Eye]]
 		- Owner and Operator
-		- [[Lime and Frog\|Lime and Frog]]
+		- [[Locations/Lime and Frog\|Lime and Frog]]
 			- Dispensary chain
 	- Names his friend as [[NPCs/Lesha Aqari\|Lesha Aqari]]
 	- Trying to become a member of the [[Factions/Maazak Ul-Tiur\|Maazak Ul-Tiur]]

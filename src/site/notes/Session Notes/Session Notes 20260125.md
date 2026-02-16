@@ -30,10 +30,10 @@
 - 22 and [[NPCs/Mariel\|Mariel]] hop out of the boat
 - bard discount on lodging when performing
 - 1gp per day for boat lodging
-- pay for 2 days in [[Feedlot\|Feedlot]]
+- pay for 2 days in [[Locations/Feedlot\|Feedlot]]
 - Statue of [[Lore/Arrhidaeus\|Arrhidaeus]]
 	- Heroic figure with sword held high, icons carved into the base of statue of different [[Lore/Tagmata\|Tagmata]] divisions. Icons scratched out except for the Eye of the [[Factions/Hecate Legion\|Hecate Legion]]
-- 22 and [[NPCs/Mariel\|Mariel]] preach in the streets of the [[Feedlot\|Feedlot]] about [[Lore/Saint Terragnis\|Saint Terragnis]]
+- 22 and [[NPCs/Mariel\|Mariel]] preach in the streets of the [[Locations/Feedlot\|Feedlot]] about [[Lore/Saint Terragnis\|Saint Terragnis]]
 	- rolled 15 to find out there's a shrine near the Road Gate in the belly of the feedlot
 	- gives each 3 gp
 	- 22 winces whenever Marial talks
@@ -49,7 +49,7 @@
 		- Paulo convinces them to fire Irnur and hire glizgliz instead
 			- Passed CHAR check
 			- Glizgliz rolls 21 to land the gig
-		- Fargus tells them refugees from [[Locations/Atwell\|Atwell]] are in [[The Edge\|The Edge]]
+		- Fargus tells them refugees from [[Locations/Atwell\|Atwell]] are in [[Locations/The Edge\|The Edge]]
 - 22 and [[NPCs/Mariel\|Mariel]] find shrine of [[Lore/Saint Terragnis\|Saint Terragnis]]
 	- prostrate in front of building
 	- gives 2 gp into alms box
