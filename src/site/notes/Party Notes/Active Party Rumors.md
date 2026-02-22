@@ -37,3 +37,5 @@
 
 15. [[Factions/The Dark Lions\|The Dark Lions]], a notorious adventuring party, are looking for Paulo
 
+16. [[Vodos the Brazen\|Vodos the Brazen]], the proprietor of the notorious fighting ring [[Locations/The Kennell\|The Kennell]] in [[Locations/Leatherteeth\|Leatherteeth]], has a standing daily challenge for a duel - anyone who defeats Vodos will win all of their wealth
+
