@@ -35,3 +35,5 @@
 14. A preacher in [[Locations/The Edge\|The Edge]] is telling people about a new revolutionary community in the north-west of [[Locations/Old Lystria\|Old Lystria]] where a new patron is offering salvation from suffering 
 	- [[Kresh\|Kresh]], a fellow follower of [[Lore/Saint Terragnis\|Saint Terragnis]] is leaving [[Locations/Gorm's Eye\|Gorm's Eye]] to join
 
+15. [[Factions/The Dark Lions\|The Dark Lions]], a notorious adventuring party, are looking for Paulo
+
