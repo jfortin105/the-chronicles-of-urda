@@ -32,3 +32,6 @@
 
 13. Refugees from [[Locations/Atwell\|Atwell]] have settled in [[Locations/The Edge\|The Edge]] and are being killed in the siege
 
+14. A preacher in [[Locations/The Edge\|The Edge]] is telling people about a new revolutionary community in the north-west of [[Locations/Old Lystria\|Old Lystria]] where a new patron is offering salvation from suffering 
+	- [[Kresh\|Kresh]], a fellow follower of [[Lore/Saint Terragnis\|Saint Terragnis]] is leaving [[Locations/Gorm's Eye\|Gorm's Eye]] to join
+
