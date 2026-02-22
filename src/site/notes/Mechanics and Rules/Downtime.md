@@ -10,5 +10,5 @@
 
 # Downtime Activities
 - [[Mechanics and Rules/Carousing\|Carousing]]
-- [[Learning\|Learning]]
-- [[Schemes\|Schemes]]
+- [[Mechanics and Rules/Learning\|Learning]]
+- [[Mechanics and Rules/Schemes\|Schemes]]
