@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mechanics-and-rules/travel-rules/"}
 ---
 
-#Mechanics-Rules 
+#Mechanics-Rules [[Mechanics - Rules\|Mechanics - Rules]]
 # Traveling Numbers
 - PCs can enter a number of hexes per day based on travel method:
 

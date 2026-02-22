@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/mechanics-and-rules/home-rules/"}
 ---
 
-
-#Mechanics-Rules 
+#Mechanics-Rules [[Mechanics - Rules\|Mechanics - Rules]]
 ## Characters and Character Sheets
 ###### Stats:
 - Standard array ---> roll 3x 3d6 and assign as you wish
@@ -12,7 +11,7 @@
 ###### Motivations:
 - What drives your character? What are they trying to accomplish? What do they want?
 - Motivations are an additional character attribute to determine when creating your character and are included to help frame the perspective of your character and the roleplaying aspect of play.
-- A [[Mechanics and Rules/Random Table - Motivations\|Random Table - Motivations]] is provided if you would like a random/procedural motivation for your character.
+- A [[Random Tables/Random Table - Motivations\|Random Table - Motivations]] is provided if you would like a random/procedural motivation for your character.
 ###### Experiences:
 - Experiences are an additional mechanical component of your character/character sheet that are designed to fill the same niche as 5e skills, but with less rigidity, and provide 
 - Experiences are a specific words or phrases that:

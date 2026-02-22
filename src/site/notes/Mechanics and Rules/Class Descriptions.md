@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/mechanics-and-rules/class-descriptions/"}
 ---
 
-
-#Mechanics-Rules
+#Mechanics-Rules [[Mechanics - Rules\|Mechanics - Rules]]
 
 ## Bard
 - Bards are welcome wanderers and wise advisors; it is their task to protect and share knowledge handed down through the ages. Create Luck tokens and use magic items to cast spells.

@@ -25,13 +25,13 @@
 				- Potion Curse: 9
 	- Glizgliz buys 1 HP and 1 mystery
 	- Paulo bought 1 HP
-- [[Rusted Regalia\|Rusted Regalia]]
+- [[Locations/Rusted Regalia\|Rusted Regalia]]
 	- BB buys stained chainmail for 50 gp
 	- When Paulo enters, head smith grabs his arm
 		- "Some people are looking for you - some nasty people"
 			- "Angry halfling women with an eye patch"
 				- Recognizes as [[NPCs/Katrina the Red\|Katrina the Red]]
-- [[The Theater of Amos\|The Theater of Amos]]
+- [[Locations/The Theater of Amos\|The Theater of Amos]]
 - 22 wakes up and washes his wounds in street water
 	- rolled 16
 - [[Kresh\|Kresh]] is waiting for 22 in the Shrine of Saint Terragnis
@@ -76,5 +76,4 @@
 			- Vedana is very familiar to [[Factions/Agulhas Family\|Agulhas Family]]
 				- Paulo approaches and asks about [[Locations/Atwell\|Atwell]] refugees
 					- Surprised he is back in town
-						-
-			- Riardan --> 
+			- Riardan --> leader of refugees
