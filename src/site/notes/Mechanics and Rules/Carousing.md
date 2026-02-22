@@ -5,7 +5,7 @@
 #Mechanics-Rules [[Mechanics - Rules\|Mechanics - Rules]]
 
 # Carousing
-- When you return from your adventures, you can carouse to celebrate your heroic exploits
+- When you return from your adventures, you can use [[Mechanics and Rules/Downtime\|Downtime]] to carouse and celebrate your heroic exploits
 - To carouse, each participant pitches in for the cost of the event and makes a "Carousing Roll"
 	- See "Event Costs and Bonuses" below
 
