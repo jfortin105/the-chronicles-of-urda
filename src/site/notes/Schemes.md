@@ -6,6 +6,7 @@
 
 # Schemes
 - You can use [[Mechanics and Rules/Downtime\|Downtime]] to progress a goal, objective, or long term plan of your character
+- Players can have multiple Schemes at once, but can only progress 1 Scheme Step per Downtime
 
 # Defining a Scheme
 - Define what you are trying to accomplish
