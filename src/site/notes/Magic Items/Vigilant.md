@@ -11,5 +11,6 @@
 - Wielder cannot be surprised
 # Curse
 - None
+- Nat 1 wear: -1
 # Origin
 - [[Locations/Citadel of the Scarlet Minotaur\|Citadel of the Scarlet Minotaur]]
