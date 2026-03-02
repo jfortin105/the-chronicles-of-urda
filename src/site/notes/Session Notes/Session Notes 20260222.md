@@ -37,7 +37,7 @@
 	- Goes to [[Locations/Lemon and Fig\|Lemon and Fig]]
 		- where [[NPCs/Giuseppe Baldini\|Giuseppe Baldini]] made his name and his influence
 		- Leaves message
-			- "We have been lookin for you, you have information we need, we have information you don't want other people to know, connect  with us post haste. You can find us in the warehouse across the from the [[Boot Pit\|Boot Pit]]. Signed your bull fighting friends."
+			- "We have been lookin for you, you have information we need, we have information you don't want other people to know, connect with us post haste. You can find us in the warehouse across the from the [[Boot Pit\|Boot Pit]]. Signed your bull fighting friends."
 				- Puts the damage of products 22 knocked over (8 gp) on to [[NPCs/Giuseppe Baldini\|Giuseppe Baldini]]'s tab
 					- Paulo passed CHAR check
 	- 22 explains about the cave, but not about the stingbats. 

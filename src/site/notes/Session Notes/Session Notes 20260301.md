@@ -1,0 +1,86 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260301/"}
+---
+
+## Episode 16
+# 21th of Vresh, year of 103, Fourth Age
+- Party is deep in a subterranean cave network under [[Locations/Gorm's Eye\|Gorm's Eye]] seeking individuals who gave 22 a strange note
+- Paulo searches body
+	- strange mutated and mutilated body
+		- Melted fleh, strange lesions and growths
+		- INT Check passed, definitely chaotic magic
+- Room 4:
+	- Downward sloping cavern with spirals of blue stones covering the floor
+		- blue stones
+	- A stone dais sits in the west side of the room with a square indentation in its center
+		- wall art depicts a wizard assembling a spellbook and sealing it with a stange looking cube
+	- BB tries to put lump of purple flesh in to the indentation
+	- 22 leaves a newspaper and gold coin on the altar
+- 22 bellyflops in to ankle-deep water
+	- 7
+	- 14
+	- 12
+	- 7
+	- Has magical effect!!
+		- you become blind in your natural eyes but grow a 3rd cyclopean eye in your forehead, you have disadvantage on evaluating your surroundings but advantage on interacting with magical items
+	- Proclaims its because he is blessed!! and no one else should touch
+- Looks at mutilated body - puts it together that the strange liquid dripped on this person and they had an adverse reaction
+- Glizgliz touches the water
+	- You grow wings of pale and mottled flesh and develop an uncontrollable twitching that last until your next rest. Gain strange dreams
+	- Wisdom Check
+		- Nat 20!
+			- totally lucid but thinks they hear the beat of insect wings
+		- STR check to fly very jankily
+- Paulo takes a drop on his tongue
+	- Forget all languages you know for 1 hour
+	- You excrete a dense fog for 1 hour IRL impairing your vision. You have disadvantage on attack rolls and attack rolls have disadvantage on you.
+- Scarface watches in bewilderment
+	- Does not see all the changes as debilitating
+- Room 2
+	- creeping vines curl around stalactites dripping with moisture
+	- small, vibrant colored insects shine in your torch light as they scurry along the plants
+	- corpses with crumpled, rusted armor lie strewn about
+	- Glizgliz ties kiddy backpack rope on him
+	- Scarface follows cave in to storage room in [[Hecatrix\|Hecatrix]]
+- Room 2A
+	- discovers week old body of a mage with a missing head and crushed neck with a crystal wand
+	- Glizgliz picks up the wand, made of translucent crystals
+	- Wisdom check of surprise
+		- 22 = 18
+		- BB = 5
+		- GG = 13
+		- P = 6
+		- SF = 16
+	- INT
+		- 22 = 12
+		- BB = 14
+		- GG = 9
+		- P = 16
+		- SF = 9
+		- C1 = 15
+		- C2 = 11
+	- Combat
+		- Scarface gets hit twice for 9 total damage
+- 22 stares at the wand
+	- wand of alarm
+- Paulo opens hatch and makes a bit of noise
+	- Failed stealth check
+- Hears footsteps approaching the door
+	- NAt 20 stealth check
+	- [[Factions/Hecate Legion\|Hecate Legion]] soldier looks in to the room and closes hatch
+	- Paulo realizes he is in the [[Hecatrix\|Hecatrix]]
+- Glizgliz casts alarm on piping
+	- has chiseled carving of a cube
+- Party has reunion and leaves to play at [[Boot Pit\|Boot Pit]]
+	- 22 has a big reveal for his followers at benefit concert
+		- shows his mutation
+		- Talks about dragon-preacher
+		- [[Factions/Agulhas Family\|Agulhas Family]] has possession of salvation that 22 was able to touch
+			- aka wealth
+	- Crowd gets really riled up about [[Factions/Agulhas Family\|Agulhas Family]]
+	- 22 tells them to get a weapon
+	- 22 calms down the crowd
+	- 22 tells them he is starting a fight-club in the caves
+	- 60/150 newspapers sold
+- Glizgliz gets 65 gp for performance
+	- 13 GP for everyone
