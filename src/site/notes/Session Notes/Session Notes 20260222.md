@@ -1,0 +1,79 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260222/"}
+---
+
+
+# 21th of Vresh, year of 103, Fourth Age
+- Go to [[Locations/The Edge\|The Edge]] to find [[Locations/Atwell\|Atwell]] refugees
+		- Staying at Temple of Gede 
+			- Vedana is very familiar to [[Factions/Agulhas Family\|Agulhas Family]]
+				- Paulo approaches and asks about [[Locations/Atwell\|Atwell]] refugees
+					- Surprised he is back in town
+			- Riardan --> leader of refugees
+- Party enters
+	- Riardan directing boxes, priest of the feedlot
+	- Refugees recognize 22 from the bar in [[Locations/Atwell\|Atwell]]
+		- Kobolds scammed them, low balled them on gems
+		- want them back!! in any way
+		- Kobolds talked about the desert a lot
+			- Ancient seabed!!
+			- would require secret routed down the cliffs, mostly used by smugglers
+	- Stranger enters the Temple
+		- Glizgliz and Scarface see glint of metal around persons mouth
+		- Hooded figure enters the temple and starts talking to refugees
+			- salvation from their burdens
+			- pulls back his hood to reveal his scaled-like skin, pale flesh, and bleached hair with metal cage over his mouth
+			- tries to get them to join his community and leaves as he is rebuffed
+	- Trying to find the gems
+		- Kobolds talked about [[Locations/Djurum\|Djurum]] a lot
+		- Disappeared after lowballing the refugees
+		- Only a few ways out of [[Locations/Gorm's Eye\|Gorm's Eye]], [[Locations/The Bronze Stairs\|The Bronze Stairs]] are occupied by the siege
+		- Secret tunnels are rumored among the seedy underbelly, fiercly held rogue groups like the [[Factions/Maazak Ul-Tiur\|Maazak Ul-Tiur]]
+		- Where is [[NPCs/Giuseppe Baldini\|Giuseppe Baldini]]?
+	- Goes to [[Locations/Lime and Frog\|Lime and Frog]]
+		- Told that [[NPCs/Giuseppe Baldini\|Giuseppe Baldini]] was away on business and just got back
+		- hasn't seen him yet
+		- where [[NPCs/Giuseppe Baldini\|Giuseppe Baldini]] made his money
+	- Goes to [[Locations/Lemon and Fig\|Lemon and Fig]]
+		- where [[NPCs/Giuseppe Baldini\|Giuseppe Baldini]] made his name and his influence
+		- Leaves message
+			- "We have been lookin for you, you have information we need, we have information you don't want other people to know, connect  with us post haste. You can find us in the warehouse across the from the [[Boot Pit\|Boot Pit]]. Signed your bull fighting friends."
+				- Puts the damage of products 22 knocked over (8 gp) on to [[NPCs/Giuseppe Baldini\|Giuseppe Baldini]]'s tab
+					- Paulo passed CHAR check
+	- 22 explains about the cave, but not about the stingbats. 
+	- Enter cave
+		- Stingbats swoop and attack Scarface
+		- Int
+			- Scarface: 7
+			- 22: 3
+			- BB: 6
+			- GG: 15
+			- P: 11
+			- SB 1: 20
+			- SB 2: 20
+			- SB 3: 14
+			- SB 4: 12
+	- Combat!!
+		- Paulo bit by SB 2
+		- Scarface hit by SB 4
+		- Blagbrag pulls SB 2 off P, throws it successfully and knocks SB4 off Scarface
+		- G bit my SB2, Nat 20 to pull off and broke its snout
+		- 22 bit by SB3
+		- Paulo shoots SB4
+	- Paulo drops torch on ground
+	- Enter room with stone altar and ruined notebook 
+		- "...keep looking... Cog... Agulhas... Endrek"
+	- Take hole in the wall in to a different part of the [[Locations/Feedlot\|Feedlot]]
+	- Enters a big cavern with a ring of 3 tents, no one there
+	- "Make sure you bring him in alive" - signed by [[NPCs/Cresha Arduinas\|Cresha Arduinas]]
+	- Paulo finds 4 gp
+	- Paulo pees everywhere, tear holes in tents, stuffs stingbat in their sleeping bags
+	- Etches in cave wall
+		- "come get me suckers"
+	- enters hallway of giant mucky stalgmites
+	- Enters big cavern 
+		- Malformed statue of wizard with their hands outstreched to the sky
+	- Enters small backroom full of ropes
+	- finds desiccated body w/3 gp
+		- Paulo takes the money 
+	- 
