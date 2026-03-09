@@ -35,7 +35,7 @@
 14. A preacher in [[Locations/The Edge\|The Edge]] is telling people about a new revolutionary community in the north-west of [[Locations/Old Lystria\|Old Lystria]] where a new patron is offering salvation from suffering 
 	- [[Kresh\|Kresh]], a fellow follower of [[Lore/Saint Terragnis\|Saint Terragnis]] is leaving [[Locations/Gorm's Eye\|Gorm's Eye]] to join
 
-15. [[Factions/The Dark Lions\|The Dark Lions]], a notorious adventuring party, are looking for Paulo
+15. [[Factions/The Dark Lions\|The Dark Lions]], a notorious adventuring party, are looking for Paulo. [[NPCs/Cresha Arduinas\|Cresha Arduinas]] may be involved. 
 
 16. [[Vodos the Brazen\|Vodos the Brazen]], the proprietor of the notorious fighting ring [[Locations/The Kennell\|The Kennell]] in [[Locations/Leatherteeth\|Leatherteeth]], has a standing daily challenge for a duel - anyone who defeats Vodos will win all of their wealth
 

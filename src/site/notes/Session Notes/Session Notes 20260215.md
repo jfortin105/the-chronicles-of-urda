@@ -3,7 +3,7 @@
 ---
 
 
-# 21th of Vresh, year of 103, Fourth Age
+# 21st of Vresh, year of 103, Fourth Age
 - Warehouse crew, wake up without 22
 	- Go shopping for rations
 		- Paulo buys 3 rations for 5 sp
@@ -12,7 +12,7 @@
 		- 1 gp per day for boat lodging
 		- BB pays for 3 more days (3 gp)
 - 22 wants to have a scar from stingbat attack
-- [[Sadera’s House of Curiosities\|Sadera’s House of Curiosities]]
+- [[Locations/Sadera’s House of Curiosities\|Sadera’s House of Curiosities]]
 	- Ring of Feather Falling (250 gp)
 	- Egg of The Cockatrice (100 gp)
 	- Potions

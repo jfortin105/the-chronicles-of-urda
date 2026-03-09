@@ -1,0 +1,100 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260308/"}
+---
+
+## Episode 17
+# 21st of Vresh, year of 103, Fourth Age
+- Performance ends at [[Boot Pit\|Boot Pit]]
+- What does the party do for the evening?
+	- Everyone rests and consumes a ration
+# 22nd of Vresh, year of 103, Fourth Age
+- Where is [[NPCs/Mariel\|Mariel]]?
+	- 22 told him to return to the temple of [[Lore/Saint Terragnis\|Saint Terragnis]] everyday at noon
+- Paulo has a get-rich-quick scheme to sell magic cave water as a "blessing of saint terragnis"
+	- Water source in [[Locations/Greenlawn\|Greenlawn]] for whole neighborhood
+- Party wants to topple the [[Factions/Agulhas Family\|Agulhas Family]] and distribute their wealth
+	- Asks to make acid-tablets out of 22's newspapers
+	- Dose up the horses??
+	- Link them to the [[Factions/Chiropta\|Chiropta]]?
+- Party goes shopping
+	- Buying rations and torches
+	- Paulo goes to nature spot in Temple of [[Lore/Gede\|Gede]]
+	- Glizgliz tries to fix [[Magic Items/Vigilant\|Vigilant]]
+		- Goes to [[Locations/Sadera’s House of Curiosities\|Sadera’s House of Curiosities]] with Blagbrag
+		- [[Sadera\|Sadera]] is interested in Glizgliz's wings and ask where they got them
+			- Glizgliz divulges story of the cave
+				- Touching the water
+				- different effects
+				- passage into [[Hecatrix\|Hecatrix]]
+			- [[Sadera\|Sadera]] tells them to be careful with their changes out in public
+				- [[Factions/Masked Order\|Masked Order]] could disappear them
+			- Glizgliz asks [[Sadera\|Sadera]] to fix [[Magic Items/Vigilant\|Vigilant]]
+				- Tells her found spear in throne room of [[Locations/Citadel of the Scarlet Minotaur\|Citadel of the Scarlet Minotaur]]
+				- Can repair it for 15 gp for 1 week
+			- [[Sadera\|Sadera]] tells Glizgliz about [[Dari's Spellbook\|Dari's Spellbook]]
+				- Their friend, [[Dari\|Dari]], went on a magical experiment adventure to assemble a powerful spellbook
+				- One of their locations was in the caves under Gorm's Eye
+			- Magic potions
+				- Blagbrag buys 1
+	- GG and BB 
+	- 22 prints new edition
+	- Paulo goes to Temple of Gede and hangs out
+- Party convenes at Shrine, 22 finds note addressed to him from [[Juma\|Juma]]
+	- Leaving for promised salvation with other believers
+	- [[NPCs/Mariel\|Mariel]] shows up 15 min late
+		- Disgruntled
+		- Shoveling horse shit all day
+		- Paid 15 sp every 2 weeks
+		- "What am I doing here?"
+		- Gets super scared by 22's eye, calls him out as a fraud
+		- 22 and Glizgliz fail CHAR checks to convince Mariel to stay
+		- Mariel lore:
+			- lives in a village north of [[Locations/West Heath\|West Heath]]
+			- Came to [[Locations/Gorm's Eye\|Gorm's Eye]] rather than [[Locations/West Heath\|West Heath]] to find adventure and help with the war effort
+		- Info from the [[Factions/Agulhas Family\|Agulhas Family]] house
+			- Water comes in giant barrels and put in basement
+			- Carriage left twice on 21st of Vresh
+	- Mariel leaves!
+- Returns to the Caves
+	- Enters through [[Locations/Leatherteeth\|Leatherteeth]]
+	- Drain grate is ajar, appears someone used it recently
+		- GG casts Alarm on drain gate
+	- Stealth rolls
+		- GG -- 7
+		- Paulo -- 11
+		- 22 -- Nat 20
+	- 22 scouts ahead
+		- Sees lit campfire and hooded figure sitting with back to entrance
+	- Enters room 11 --> Weeping Eye ooze drops on them
+		- BB -- 5
+		- 22 -- 2
+		- P -- 21
+		- GG -- 8
+		- Water effect
+			- BB -- 18
+				- Your size doubles for 1 hour IRL. Disadvantage on DEX
+			- 22 -- 5
+				- Forget all languages you know for 1 hour
+			- GG -- 6
+				- DC 15 CON check or take 2d6 damage
+					- FAIL
+					- Re-roll for 4 damage
+		- BB goes Freeze mode
+		- GG has scar
+		- BB is 12 feet tall
+	- Enters Room 17:
+		- This room might once have been a tomb. A broken-lidded sarcophagus still lies in the north side of the room, and the air here is unnaturally still and cold.
+			- Utilitarian metal cylinder
+		- BB checks for possession
+			- passes check to see sarcophagus is haunted
+		- Sarcophagus contains 2x emeralds socketed into eyes of a warped skeleton: 7 ft tall, 3 arms, hammer-head like skull
+	- Enters 10 A
+		- A floating, black octopus with rows of red eyes and a webbed skirt of tentacles
+		- Blagbrag stares into its eye and feels a psychic 
+		- As approached, it speaks in a eldritch crackling language that reverberates 
+	- Enters 10
+		- rumbling causes stalagmites to fall on party
+			- GG Fails DEX, 2 damage
+		- Lean-tos, tents, and roughly hewn wooden huts cover a relatively flat area of cavern that is raised up and surrounded by a low-wall of stone
+		- find [[Factions/The Afflicted\|The Afflicted]]!
+		- Looking toward 9 looks like a minecraft lush cave

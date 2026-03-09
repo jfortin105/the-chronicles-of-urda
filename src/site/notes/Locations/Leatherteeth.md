@@ -12,7 +12,7 @@
 		- 4 left hand
 		- 3 right hand
 		- HAS THUMBS
-- [[Sadera’s House of Curiosities\|Sadera’s House of Curiosities]]
+- [[Locations/Sadera’s House of Curiosities\|Sadera’s House of Curiosities]]
 	- Rotating stock of treasures, magics, potions, and other rarities
 - [[The Crass Apple\|The Crass Apple]]
 	- Gambling den

@@ -84,3 +84,4 @@
 	- 60/150 newspapers sold
 - Glizgliz gets 65 gp for performance
 	- 13 GP for everyone
+- 
