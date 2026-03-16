@@ -46,9 +46,9 @@
 - Runs to print shop and grabs newspaper
 	- Already paid
 	- 15 for gp for 150 copies
-- [[Jala\|Jala]] is the only person who shows up to help with newspapers
+- [[NPCs/Jala\|Jala]] is the only person who shows up to help with newspapers
 	- Kobolds escaped from their homes to Gorm's Eye recently, sounds like they came from the same area where the commune is supposed to be starting
-	- CHAR check to convince [[Jala\|Jala]] to help with the newspaper
+	- CHAR check to convince [[NPCs/Jala\|Jala]] to help with the newspaper
 		- DC 15 check passed
 		- Head to Mongtown
 			- DC 15 CHAR passed to hangout

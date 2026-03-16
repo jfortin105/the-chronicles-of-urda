@@ -54,7 +54,7 @@
 	- prostrate in front of building
 	- gives 2 gp into alms box
 	- Mariel asks for money, 22 gives it to him, Mariel puts in the alms box
-	- 22 approaches [[Jala\|Jala]] the Elf as they leave the shrine
+	- 22 approaches [[NPCs/Jala\|Jala]] the Elf as they leave the shrine
 		- From [[Locations/West Heath\|West Heath]]
 		- Tells 22 about shrine to [[Lore/Saint Terragnis\|Saint Terragnis]], reliquary of locks of the saints hair, brings solemnity of mind
 		- Cautions prudence with radicalizing peasants

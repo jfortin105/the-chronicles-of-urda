@@ -117,7 +117,7 @@
 - 22's meeting commences
 	- uses 2 luck tokens
 	- 6 people show up and wait for 22 to start
-		- [[Kresh\|Kresh]] and [[Jala\|Jala]]
+		- [[Kresh\|Kresh]] and [[NPCs/Jala\|Jala]]
 		- 4 other people
 			- Ophelia
 			- Fronk the Goblin
@@ -138,7 +138,7 @@
 				- "how did you come to such wisdom"
 					- spins his tale
 			- Upcoming [[Lore/Venerated Souls\|Venerated Souls]] conclave in [[Locations/West Heath\|West Heath]] in 20 days
-			- Planning on group pilgrimage, sends [[Jala\|Jala]] and [[Kresh\|Kresh]] to attract more followers
+			- Planning on group pilgrimage, sends [[NPCs/Jala\|Jala]] and [[Kresh\|Kresh]] to attract more followers
 			- Need to get newspaper running
 				- group chips 6 gp to cover cost of first print run
 					- Will sell each copy for 1sp to recoup losses

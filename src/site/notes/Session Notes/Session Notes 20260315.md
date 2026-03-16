@@ -1,0 +1,101 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260315/"}
+---
+
+## Episode 18
+# 22nd of Vresh, year of 103, Fourth Age
+- You come to a relatively flat, elevated cavern that is surrounded by waist-high barricades of detritus and cave stones
+	- Within the cavern, you see lean-tos, tents, and roughly hewn wooden shacks surrounded by campfires and junk
+	- The air smells of damp charcoal and musty animal fur
+	- You hear a heated argument in the distance and moans of pain
+- Looks into room 9
+	- an orange puddle of quivering slime in middle of room
+	- Slime attacks
+	- INT
+		- P NAT 1 ----------> 5
+		- G NAT 1 ----------> 6
+		- BB 16 -------------> 2
+		- SCARFACE 20 ----> 1
+		- 22 NAT 1 ---------> 6
+		- SILME 1 7 ---------> 4
+		- OOOZE 2 8  ---------> 3
+	- Magic Wand in the middle of ooze
+		- [[Magic Items/Wand of Purifying Blows\|Wand of Purifying Blows]]
+	- All get 1 XP from this wand and [[Magic Items/Wand of Alarm\|Wand of Alarm]]
+- Looks into 5 and sees:
+	- A massive cavern with a waterfall draining through its roof into a gigantic hole in the cavern flow
+		- Small flow big hole
+	- Paulo pees into the hole
+	- Scarface throws silver piece into hole and they do not hear it hit the bottom... if it did
+	- Blagbrag throws a lit vine down the hole
+		- See narrow, steep steps lining inside of hole
+		- torch goes out after a certain distance
+- Look into room 11
+	- Ooze dripping from ceiling
+	- Set of ornate but ancient doors stamped with the lidless eye sigil of the [[Factions/Masked Order\|Masked Order]]
+- Returns to the Camp (Room 6)
+	- Climbs over barrier and sees [[Irv\|Irv]]
+		- Bounds off towards camp and sounds of discourse
+	- Approach
+		- large bonfire
+		- X crucifix
+	- Jacob --> "BB,  is that you?"
+	- Scarface tries to free the strung-up Wizard
+		- "why are you doing this to him"
+	- Helas blocks his path
+	- Jacob and group are surprised by Blagbrag's appearance
+		- "The hero of our revolution has returned"
+	- What should we do with the [[Factions/Masked Order\|Masked Order]] prisoner?
+		- 25% skin missing
+		- Scarface says execution is not the way
+			- "Life is sacred"
+			- "Suffering is sacred if you choose it"
+		- "Release me..." - prisoner
+		- 22 asks what they learned from prisoner
+			- Masked order is no longer doing human trials
+			- Legion banned it
+			- Revolution has made progress but institution needs to be taken down
+		- Jacob points towards 22's eye and glizgliz's wings
+			- Blagbrag you are flame to our revolution
+			- Glizgliz tells how they touched the ooze on purpose
+			- "any friend of Blagbrag's who's also a mutated freak is a friend of ours"
+		- Blagbrag lore dump
+			- Experimented on by [[Factions/Masked Order\|Masked Order]] in [[Locations/The Grim Cage\|The Grim Cage]]
+			- "we're all possessed"  - said to Jacob and became battlecry for movement
+				- Inspired the revolution accidentally
+			- [[Factions/The Afflicted\|The Afflicted]] hero-worship Blagbrag who plays it up
+		- What do [[Factions/The Afflicted\|The Afflicted]] want?
+			- BB left to figure out his possession, assumed everyone would leave
+			- BB thinks they want to overthrow the [[Factions/Masked Order\|Masked Order]]
+		- "Who will write the Books without me? Release me, work needs to be "
+	- Paulo asks about [[Haldrin's Tower\|Haldrin's Tower]]
+		- prisoner tells them its an ancient tower not so far from here
+		- Will show them the tomes on the tower if he is freed
+		- "I cannot continue the work if I am dead"
+	- BB holds up the [[Lump of Purple Flesh\|Lump of Purple Flesh]] to prisoner
+		- lumps become agitated
+		- Prison is stunned in fear
+		- Jacob inquires about the flesh
+		- BB tries to move the lump, passes WIS save to hold it back and feels a psycic shock "and the feeling of being connected to something"
+	- Paulo tries to kill prisoner with drop of ooze from his flask
+		- Blagbrag anime fights Scarface to keep him back 
+		- drop falls on his eye
+		- has a seizure and then body detonates, showering the crowd in gore
+	- Glizgliz picks up his [[Magic Items/Mask of Ord\|Mask of Ord]]
+		- 22 identifies
+			- NAT 20
+	- Jacob asks BB to discuss a serious matter
+		- "we have a patron who is offering us a weapon to destroy the Eye itself"
+		- Relic is in [[Locations/The Gloomwood\|The Gloomwood]]
+		- Will Blagbrag the fearless find and return the relic??
+			- [[Krull's Stone of Withering\|Krull's Stone of Withering]]
+			- Jacob gives them a compass that will "guide them to their path"
+			- Needle spins in compass
+		- Backup plans
+			- [[NPCs/Helas\|Helas]] wants to kill everyone
+			- [[NPCs/Yadoslav\|Yadoslav]] wants to escape [[Locations/Gorm's Eye\|Gorm's Eye]] into the [[Locations/Djurum\|Djurum]]
+		- Blagbrag says he might know someone who could help and agrees to retrieve the artifact
+			- Will talk to Jacob before party leaves
+		- 22 talks to Jacob and they have disagreements
+			- [[Factions/The Afflicted\|The Afflicted]] are beaten up by everyone else and don't trust 22's organization
+	- Party rests and is given mystery meat by [[Factions/The Afflicted\|The Afflicted]] as 1 free ration

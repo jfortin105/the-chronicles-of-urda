@@ -39,7 +39,7 @@
 	- GG and BB 
 	- 22 prints new edition
 	- Paulo goes to Temple of Gede and hangs out
-- Party convenes at Shrine, 22 finds note addressed to him from [[Juma\|Juma]]
+- Party convenes at Shrine, 22 finds note addressed to him from [[NPCs/Jala\|Jala]]
 	- Leaving for promised salvation with other believers
 	- [[NPCs/Mariel\|Mariel]] shows up 15 min late
 		- Disgruntled
@@ -89,7 +89,7 @@
 			- passes check to see sarcophagus is haunted
 		- Sarcophagus contains 2x emeralds socketed into eyes of a warped skeleton: 7 ft tall, 3 arms, hammer-head like skull
 	- Enters 10 A
-		- A floating, black octopus with rows of red eyes and a webbed skirt of tentacles
+		- Scythe-like limbs jut from a black, moist, bulbous head. It's lower half is a nest of tentacles and it levitates in the air
 		- Blagbrag stares into its eye and feels a psychic 
 		- As approached, it speaks in a eldritch crackling language that reverberates 
 	- Enters 10
