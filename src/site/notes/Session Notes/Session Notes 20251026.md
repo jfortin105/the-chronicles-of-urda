@@ -48,7 +48,7 @@
 - Region: Old Lystria
 	- Old, Arthurian kingdom.
 	- Violently resisted the [[Lore/Didachian Hegemony\|Didachian Hegemony]]
-	- Escaped to [[Techulcha's Crown\|Techulcha's Crown]]
+	- Escaped to [[Locations/Gloomwood Locations/Techulcha's Tooth\|Techulcha's Tooth]]
 - Presently, river settled by citizens of the remaining Hegemony
 - Notice from [[NPCs/Ruthger Forstronge\|Ruthger Forstronge]]
 

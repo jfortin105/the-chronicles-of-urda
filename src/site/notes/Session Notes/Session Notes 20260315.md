@@ -34,7 +34,7 @@
 	- Ooze dripping from ceiling
 	- Set of ornate but ancient doors stamped with the lidless eye sigil of the [[Factions/Masked Order\|Masked Order]]
 - Returns to the Camp (Room 6)
-	- Climbs over barrier and sees [[Irv\|Irv]]
+	- Climbs over barrier and sees [[NPCs/Irv\|Irv]]
 		- Bounds off towards camp and sounds of discourse
 	- Approach
 		- large bonfire
@@ -68,7 +68,7 @@
 			- BB left to figure out his possession, assumed everyone would leave
 			- BB thinks they want to overthrow the [[Factions/Masked Order\|Masked Order]]
 		- "Who will write the Books without me? Release me, work needs to be "
-	- Paulo asks about [[Haldrin's Tower\|Haldrin's Tower]]
+	- Paulo asks about [[Locations/Gloomwood Locations/Haldrin's Tower\|Haldrin's Tower]]
 		- prisoner tells them its an ancient tower not so far from here
 		- Will show them the tomes on the tower if he is freed
 		- "I cannot continue the work if I am dead"
@@ -86,7 +86,7 @@
 			- NAT 20
 	- Jacob asks BB to discuss a serious matter
 		- "we have a patron who is offering us a weapon to destroy the Eye itself"
-		- Relic is in [[Locations/The Gloomwood\|The Gloomwood]]
+		- Relic is in [[Locations/Gloomwood Locations/The Gloomwood\|The Gloomwood]]
 		- Will Blagbrag the fearless find and return the relic??
 			- [[Krull's Stone of Withering\|Krull's Stone of Withering]]
 			- Jacob gives them a compass that will "guide them to their path"

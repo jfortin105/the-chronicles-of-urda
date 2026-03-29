@@ -75,7 +75,7 @@
 	- [[Locations/The Grim Cage\|The Grim Cage]] is a prison that Blagbrag was imprisoned in
 - Party leaves Bywater
 	- Maidan voyage of the Ruthger's Hope 
-	- river being natural barrier to [[Locations/The Gloomwood\|The Gloomwood]]
+	- river being natural barrier to [[Locations/Gloomwood Locations/The Gloomwood\|The Gloomwood]]
 		- Gnarled trees weeping sap of vivid colors
 		- Carrion birds
 		- perpetual overhanging mist and fog shroud the forest

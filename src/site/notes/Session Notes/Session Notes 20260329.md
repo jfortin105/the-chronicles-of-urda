@@ -1,0 +1,96 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260329/"}
+---
+
+
+# 22nd of Vresh, year of 103, Fourth Age
+-  Party rests and is given mystery meat by [[Factions/The Afflicted\|The Afflicted]] as 1 free ration
+# 23rd of Vresh, year of 103, Fourth Age
+- GG asks about [[Dari\|Dari]]
+	- [[NPCs/Helas\|Helas]] followed Him around the cave and saw him go to the NW before disappearing
+- Enters room 3
+	- Rotted crates and barrels stored
+	- Abandoned elevator shaft leading to [[Locations/The Edge\|The Edge]]
+- Enters room 1
+	- giant puddle of eye ooze ringed by tendril fungi with a golden glint in the puddle
+		- Guards tell you the fungi release toxic spores when disturbed
+- GG asks about [[Mortimus\|Mortimus]] and the kobolds
+	- [[NPCs/Oxnar\|Oxnar]] tells them they haven't seen anyone but there is a camp nearby
+- Enters 5B
+	- Water drains into a fetid pool, in which you can see pale elongated fish with wide eyes and whiskers staring up at you from the depths. You have the sensation they despise you. Dense silver cube sit in the depths of the water.
+		- 3 fish, each the size of a medium-sized dog
+		- Scarfaces thinks they may be friendly and approaches, fish swipe with their clawed fins
+		- GG throws grappling hook, roll 19 to pull silver cube out
+			- Fish start freaking out
+			- Cube almost seems anti-magical
+- Enters 5
+	- 1 skeleton with 1 torch and 1 healing potion
+		- wearing mages robes
+		- appears to be [[Dari\|Dari]]
+	- room covered in ferns and vines
+	- As they disturb the bag of goods, darkmantle swoops by
+	- ROLL INITIATIVE
+		- DM 1: 22
+		- DM 2: 22
+		- GG: 21
+		- BB: 17
+		- DM 3: 9
+		- 22: 7
+		- DM 4:
+		- Paulo: 5
+		- SC: 1
+	- Combat
+		- DM 1 uses Darkness
+		- DM2 deals 1 dmg to 22
+		- GG fails to light torch
+		- BB lights torch
+		- DM3 deals 1 dmg to BB
+		- 22 flees
+		- DM4 hits for 2 damage
+		- Paulo flees
+		- Scarface kills DM1
+		- DM2 crits for 6 damage on GG
+		- GG flees
+		- BB flees
+	- As party flees, Darkmantles stay in their corner cave
+- relight torch
+- Party returns to the reliquary in room 4
+	- passes by the mystery camp that is empty
+- Glizgliz recover's [[Dari's Spellbook\|Dari's Spellbook]]
+- party returns to the hole in room 5
+	- finds entrance to staircase descending down the hole
+	- single file
+		- Glizgliz
+		- Paulo
+		- 22
+		- Scarface
+		- Blagbrag
+	- Walks for 1 hour, still descending
+	- BB sings camp songs
+	- Almost to the bottom
+	- Takes 2 hours to descend
+	- Finds a pathway leading away from resevoir of the ooze
+	- Enters sandstone cave and see two hulking figures talking in strange clicking and clacking tongue
+		- 1 leaves and the other patrols
+		- Patrols entrance, returns every 2 min
+			- P: 20 
+			- GG: 18
+			- BB: 17
+			- Scarface: 17
+			- 22: 12
+		- Enters sandy area of dunes
+			- East is war machines and thundering sound of machinery
+			- South is sand dunes
+			- West is some kind of settlement and trees
+		- Party sees the hulking figure has a poleax, green skin, and a shell on its back
+		- Party proceeds coolly towards the settlement 
+			- appears to be a natural oasis or spring that someone built 5 buildings from bricks of sandstone
+			- Paulo hides behind small shack of water syphon
+				- Super cold 
+				- tech innovation and magic enchantment
+					- Technical cogwork device
+			- sees an orc retrieve clay vessel filled with purified water
+			- GG sees halfling as well
+			- Both halfling and orc are wearing drab desert gear with crude iron collars
+		- Party approaches the square between the 5 buildings posing as a mercenary band
+		- 

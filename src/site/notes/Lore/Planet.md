@@ -15,3 +15,4 @@
 	- [[Locations/Gorshi\|Gorshi]]
 	- [[Locations/Cazur\|Cazur]]
 - [[Locations/Yntark\|Yntark]]
+- [[Ooba\|Ooba]]
