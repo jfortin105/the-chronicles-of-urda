@@ -1,0 +1,87 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260405/"}
+---
+
+
+## Episode 21 - Starting Location: [[Locations/Djurum\|Djurum]]
+# 23rd of Vresh, year of 103, Fourth Age
+- Party approaches the square between the 5 buildings posing as a mercenary band
+- 22 provides context
+	- people in the Djurum are not nice
+- 5 buildings
+- Scarface enters the largest building, where the slaves enter
+	- Half-orc has elaborate scar on the right cheek
+	- "master is due to return here soon, you don't want to upset him."
+	- Halfling...
+	- Master is named "Shoss", has connections to Chiropta
+		- Left 3 days ago with the rest of his clan
+		- Due to return today
+	- Monti would escape the desert if she could escape persecution
+	- 5 total members of Shoss's band
+		- Shoss is a mage
+		- The rest are fighters
+	- What do the Chiropta want?
+		- See themselves as the inheritors and continuation of the [[Lore/Didachian Hegemony\|Didachian Hegemony]]
+		- Attacking other factions they seem as wayward or no longer loyal to [[Lore/Arrhidaeus\|Arrhidaeus]]
+	- What is the party trying to accomplish?
+	- Look into other shacks
+		- Shack 1:
+			- Filled with sand and disarticulated remains 5 humanoids 
+			- Shard of blue glass that sometimes reflects brief portents
+				- 22 rolls NAT 20 on wisdom check
+					- Sees at dusk, two goblins on donkeys approaching the same buildings they are looking at
+					- power of item seems to dim after use
+		- Shack 2:
+			- arrow embedded in the ground
+			- signs of a fire
+			- looks like it was a living quarter at some point
+		- Shack 3:
+			- mummified curled in fetal position with something under its arms
+				- doesn't appear in 22's magic vision
+	- Compound has the appearance of being for shelter rather than a permanent residence
+	- Mummy does not appear to be possessed, appears to have been in the shack for a while 
+		- Paulo rolled 18 INT check to investigate
+			- can tell its an undead but may not know if it still has necromantic energy
+			- Seems to have stumbled its way in. 
+	- Gang stabs the mummy
+- MUMMY WAKES UP!
+	- Mummy attacks BB and SC,
+		- 4 CON to SC
+		- 2 CON to BB
+	- Paulo finishes off the mummy!
+- Finds a "Tarnished, bronze oil lamp carved with a faded inscription you cannot read"
+- What should party do next?
+	- 22 and SC don't want to totally abandon slaves
+	- Party agrees they need to agree on a gameplan once they have a chance to rest
+	- Paulo wants to return to Gorm's Eye and rest/restock and then return
+- Gameplan:
+	- 22, GG, SC --> go into slave shack and tell the plan
+		- Half-orc doesn't care for Shoss, takes a crossbow bolt
+		- Halfling is scared and doesn't want to get hurt
+		- 22 tries to inspire the halfling, NAT 20
+			- Halfing is inspired and is able to 
+		- GG drinks mystery potion
+			- WIS becomes 18
+			- compelled to jump into pit for 1 hour
+	- Paulo --> parked on roof
+	- BB --> hiding around corner
+- 2 goblins ride up on donkeys
+	- large goblin with staff and whip, wounded leg
+	- armored goblin with wounded arm and big axe
+- Shoss rushes in and yells about needing for them to leave
+- GG and 22 try to talk to Shoss, he brushes them off
+	- 22 crits on DEX check to apply drop of eye ooze
+		- Compelled to eat all his gold and skins turn purple
+			- vomiting and forcefeeding the gold down his gullet repeatedly
+	- Shoss calls for Garb
+- Scarfaces persuades Garb to negotiate for the slaves
+	- barter 1 - Monti, Shoss's staff, and donkey + cart
+	- barter 2 - 20 gp, Shoss's staff, and donkey + cart
+	- barter 2 - 50 gp, Shoss's staff, and donkey + cart
+- GG passes WIS check to see he is expecting something behind him
+- 22 send his cobra to kill one of the donkeys
+- Negotiations continue until a horn is blown 
+	- Garb and Agrak recognize the sound and run in fear
+		- Garb runs for the donkey
+- GG picks up Shoss's staff
+- Paulo sees 5 figures on horseback ride up on the nearest dune and descend
