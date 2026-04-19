@@ -1,0 +1,56 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260415/"}
+---
+
+## Episode 21 - Starting Location: [[Locations/Djurum\|Djurum]]
+# 23rd of Vresh, year of 103, Fourth Age
+- Paulo sees 5 figures on horseback ride up on the nearest dune and descend
+- COMBAT ENSUES
+	- Rose playing as Scarface
+	- In order to coat a weapon with eye ooze, uses whole bottle
+		- Half-bottle for bolts
+	- 22 contaminates 10 urns with eye ooze
+	- GG moves 5 urns
+		- 3 in front of door
+		- 1 each north and south windows
+	- Paulo stays hidden
+	- Scarfaces dips arrow and shoots [[Kykaltis\|Kykaltis]]
+		- gains 22's eyes
+	- [[Kiro\|Kiro]] casts Arcane Armor successfully
+		- 2
+	- BB moves into the building
+		- Drinks magic potion
+		- Can speak and understand animals for 1 hour
+		- passes check CON  for bindness
+	- [[Massik\|Massik]] grabs Shoss
+	- Xephon attacks Garb
+- 22 knocks over urn and contaminates an area
+- GG casts Cleansing Flame on BB
+	- success
+- [[Kykaltis\|Kykaltis]] heals for 5 HP, back to full
+- Paulo stays hidden
+- Agrak keeps running
+- Scarface shoots [[Kykaltis\|Kykaltis]]
+	- 2 dmg
+- [[Kiro\|Kiro]] hits 22 with magic missle
+- Blagbrag tries to talk to Raider 1's horse
+	- "Master will let me feast on you tonight"
+- 22 pushes another urn over
+	- You are compelled to divulge 1 secret (or thing you know but others may not) to anyone you encounter
+		- "I've cheated on my wife"
+- [[Tryna\|Tryna]] hits Garb for 2
+- Glizgliz stabs [[Xephon, Sorrowbringer\|Xephon, Sorrowbringer]]
+- [[Kykaltis\|Kykaltis]] blesses [[Tryna\|Tryna]]
+	- Anointed
+- Paulo takes goat piss
+	- fails check, takes positive and negative bonuses
+- Agrak runs! Escapes
+- [[Kiro\|Kiro]] casts Snare on Scarface
+	- **Snare:** DC 13, focus: One humanoid target within near paralyzed for duration.
+	- success
+- blagbrag talks to [[Kiro\|Kiro]]'s horse
+	- convinces it the Cobra staff is going to attack it
+	- passes CHAr chek
+- Blagbrag finishes off [[Xephon, Sorrowbringer\|Xephon, Sorrowbringer]]
+	- gets pushed into the sand and evangelion disappears into a beam of light
+	- drops his mace into the ground
