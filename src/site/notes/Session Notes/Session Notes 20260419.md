@@ -1,0 +1,53 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260419/"}
+---
+
+## Episode 22 - Starting Location: [[Locations/Djurum\|Djurum]]
+# 23rd of Vresh, year of 103, Fourth Age
+- Blagbrag finishes off [[Xephon, Sorrowbringer\|Xephon, Sorrowbringer]]
+	- gets pushed into the sand and evangelion disappears into a beam of light
+	- drops his mace to the ground
+- [[Massik\|Massik]] misses crossbow shot and moves to different ground
+- Garb slashes [[Trinna\|Trinna]] and runs towards the Siphon
+- GG shoots [[Kiro\|Kiro]] for 3
+- Big P still on Goat Piss timer
+- Massik casts Anoint on himself
+	- **Anoint:** DC 12. One weapon or armor becomes a magic +2 version for 10 rounds.
+- 1 action to move urn and put it back
+- 22 jumps out window
+- Garb smacks 22 for 6 dmg-
+- Trinna hits Scarface for 3
+- Scarface uses Paulo's health potion to revive 22 for 1 HP
+- Garb hits GG for 1 dmg
+- Trinna NAT 1 attack
+- GG hits Garb for 1 dmg
+- Kykaltis pushes urn on to BB
+	- Fails magic save
+	- compelled to eat gold (5 per turn)
+- Garb grabs the siphon and runs
+- Kyklatis heals for 8
+- Scarfaces CRIT on headlock [[Kykaltis\|Kykaltis]]
+- Blagbrag compulsively eats 5 gold
+	- passes check
+- 22 drops eye ooze on Kykaltis and he turns in to a crocodile
+	- still restrained
+- 22 runs away from the crisis
+- GG ties crocodile Kykaltis's snout together
+- Scarface restrains the crocodile
+- Paulo hits for 2 dmg
+- Blagbrag eats 5 more coins
+	- NAT 20
+- [[Massik\|Massik]] escapes
+- Garb breaks out of 22's restraining attempt
+- Garb knocks 22 down with the syphon
+- Paulo CRIT to stabilizes 22
+- Blagbarg eats 5 more gold
+	- fails CON, takes 4 DMG and pukes up the 15 coins
+- GG casts Purifying blows on Scarface
+- Crocodile hits Scarface for 5
+- Paulo hits crocodile for 1 dmg
+- GG finishes off the crocodile
+- [[Shoss, the Sloven\|Shoss, the Sloven]] is unconscious but still purple
+- [[Agrak\|Agrak]] has escaped
+- [[Garb, the Gorgon of Gaolich\|Garb, the Gorgon of Gaolich]] escapes with the water syphon
+- [[Monti\|Monti]] is still cowering in the building

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/np-cs/katrina-the-red/"}
 ---
 
-
 ## Characteristics 
 - Halfling
 - Fighter
