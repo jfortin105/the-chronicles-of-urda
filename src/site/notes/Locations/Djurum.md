@@ -19,4 +19,4 @@
 - [[Crimson Dread\|Crimson Dread]]
 - [[Monti\|Monti]]
 - [[Shoss, the Sloven\|Shoss, the Sloven]]
-- [[Garb, the Gorgon of Gaolich\|Garb, the Gorgon of Gaolich]]
+- [[Garb\|Garb]]

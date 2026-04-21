@@ -49,5 +49,5 @@
 - GG finishes off the crocodile
 - [[Shoss, the Sloven\|Shoss, the Sloven]] is unconscious but still purple
 - [[Agrak\|Agrak]] has escaped
-- [[Garb, the Gorgon of Gaolich\|Garb, the Gorgon of Gaolich]] escapes with the water syphon
+- [[Garb\|Garb]] escapes with the water syphon
 - [[Monti\|Monti]] is still cowering in the building

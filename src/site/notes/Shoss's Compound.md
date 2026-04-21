@@ -7,7 +7,7 @@
 # Locations
 # People
 - [[Shoss, the Sloven\|Shoss, the Sloven]]
-- [[Garb, the Gorgon of Gaolich\|Garb, the Gorgon of Gaolich]]
+- [[Garb\|Garb]]
 - [[Monti\|Monti]]
 - [[Agrak\|Agrak]]
 # Notes
