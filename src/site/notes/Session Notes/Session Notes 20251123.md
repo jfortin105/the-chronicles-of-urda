@@ -22,7 +22,7 @@
 - [[Loginius Jest\|Loginius Jest]]
 	- Letter telling [[NPCs/Erwin Jest\|Erwin Jest]] he's a failure and a disappointment
 	- Brother [[Arwin Jest\|Arwin Jest]], who is in in the Hecate Legion and wildly successful
-- [[Unsigned Letter to Erwin Jest\|Unsigned Letter to Erwin Jest]]
+- [[Party Notes/Unsigned Letter to Erwin Jest\|Unsigned Letter to Erwin Jest]]
 	- "The hag does not tolerate failure. If you do not succeed to your mission of folly, return to Haldrin's Tower"
 - Giant wurm!
 	- Swallowed up Major, 4 legion guys, farmer Marsden + daughter Marsden

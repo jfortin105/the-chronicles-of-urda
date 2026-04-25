@@ -4,12 +4,12 @@
 
 ## Episode 22 - Starting Location: [[Locations/Djurum\|Djurum]]
 # 23rd of Vresh, year of 103, Fourth Age
-- Blagbrag finishes off [[Xephon, Sorrowbringer\|Xephon, Sorrowbringer]]
+- Blagbrag finishes off [[NPCs/Xephon, Sorrowbringer\|Xephon, Sorrowbringer]]
 	- gets pushed into the sand and evangelion disappears into a beam of light
 	- drops his mace to the ground
-- [[Massik\|Massik]] misses crossbow shot and moves to different ground
-- Garb slashes [[Trinna\|Trinna]] and runs towards the Siphon
-- GG shoots [[Kiro\|Kiro]] for 3
+- [[NPCs/Massik\|Massik]] misses crossbow shot and moves to different ground
+- Garb slashes [[NPCs/Trinna\|Trinna]] and runs towards the Siphon
+- GG shoots [[NPCs/Kiro\|Kiro]] for 3
 - Big P still on Goat Piss timer
 - Massik casts Anoint on himself
 	- **Anoint:** DC 12. One weapon or armor becomes a magic +2 version for 10 rounds.
@@ -26,7 +26,7 @@
 	- compelled to eat gold (5 per turn)
 - Garb grabs the siphon and runs
 - Kyklatis heals for 8
-- Scarfaces CRIT on headlock [[Kykaltis\|Kykaltis]]
+- Scarfaces CRIT on headlock [[NPCs/Kykaltis\|Kykaltis]]
 - Blagbrag compulsively eats 5 gold
 	- passes check
 - 22 drops eye ooze on Kykaltis and he turns in to a crocodile
@@ -37,7 +37,7 @@
 - Paulo hits for 2 dmg
 - Blagbrag eats 5 more coins
 	- NAT 20
-- [[Massik\|Massik]] escapes
+- [[NPCs/Massik\|Massik]] escapes
 - Garb breaks out of 22's restraining attempt
 - Garb knocks 22 down with the syphon
 - Paulo CRIT to stabilizes 22
@@ -47,7 +47,7 @@
 - Crocodile hits Scarface for 5
 - Paulo hits crocodile for 1 dmg
 - GG finishes off the crocodile
-- [[Shoss, the Sloven\|Shoss, the Sloven]] is unconscious but still purple
-- [[Agrak\|Agrak]] has escaped
-- [[Garb\|Garb]] escapes with the water syphon
-- [[Monti\|Monti]] is still cowering in the building
+- [[NPCs/Shoss, the Sloven\|Shoss, the Sloven]] is unconscious but still purple
+- [[NPCs/Agrak\|Agrak]] has escaped
+- [[NPCs/Garb\|Garb]] escapes with the water syphon
+- [[NPCs/Monti\|Monti]] is still cowering in the building

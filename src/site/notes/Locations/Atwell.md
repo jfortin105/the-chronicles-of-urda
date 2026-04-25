@@ -24,8 +24,8 @@
 	- Giant hole under barn
 		- Father and daughter missing, rescued from wurm stomach.
 - [[Factions/Hecate Legion\|Hecate Legion]] outpost
-	- [[Karl Pardo\|Karl Pardo]]
+	- [[NPCs/Karl Pardo\|Karl Pardo]]
 # People
 - [[NPCs/Erwin Jest\|Erwin Jest]]
 - [[NPCs/Neeta Oilsweep\|Neeta Oilsweep]]
-- [[Karl Pardo\|Karl Pardo]]
+- [[NPCs/Karl Pardo\|Karl Pardo]]

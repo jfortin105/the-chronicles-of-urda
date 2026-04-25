@@ -11,12 +11,12 @@
 - Resources are scarce and are the source of conflict for the limited mortal population that make up the desert
 
 # Locations:
-- [[Shoss's Compound\|Shoss's Compound]]
+- [[Locations/Shoss's Compound\|Shoss's Compound]]
 - Chiropta Siege Camp
 
 # People:
 - [[Factions/Chiropta\|Chiropta]]
-- [[Crimson Dread\|Crimson Dread]]
-- [[Monti\|Monti]]
-- [[Shoss, the Sloven\|Shoss, the Sloven]]
-- [[Garb\|Garb]]
+- [[Factions/Crimson Dread\|Crimson Dread]]
+- [[NPCs/Monti\|Monti]]
+- [[NPCs/Shoss, the Sloven\|Shoss, the Sloven]]
+- [[NPCs/Garb\|Garb]]

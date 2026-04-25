@@ -6,7 +6,7 @@
 
 1. The [[Factions/Chiropta\|Chiropta]], a rival splinter faction of the [[Lore/Tagmata\|Tagmata]], have been sieging [[Locations/Gorm's Eye\|Gorm's Eye]] for 3 years
 
-2. [[Lystria\|Lystria]] used to be a great kingdom located in the what is now known as [[Locations/Gloomwood Locations/The Gloomwood\|The Gloomwood]]
+2. [[Factions/Lystria\|Lystria]] used to be a great kingdom located in the what is now known as [[Locations/Gloomwood Locations/The Gloomwood\|The Gloomwood]]
 	- Rumor has it that the Lystrian people fled the [[Lore/Tagmata\|Tagmata]] and escaped to [[Locations/Gloomwood Locations/Techulcha's Tooth\|Techulcha's Tooth]], a solitary mountain of cursed provenance at the their of the dark wood.
 	- Rumor has it that as they escaped, the Lystrians left all their belongings behind. Great wealth awaits those that venture in to [[Locations/Gloomwood Locations/The Gloomwood\|The Gloomwood]], if they can survive the dangers.
 	- The [[Bittermold Family\|Bittermold Family]] were charged as military governors of the conquered province, but their line suddenly died out and the whole place fell into decay. Most blame the foul magic of the woods for claiming their lives. They say that [[Locations/Gloomwood Locations/Bittermold Keep\|Bittermold Keep]] still brims with wealth, somewhere deep in the twisted forest.
@@ -17,8 +17,8 @@
 	- The kobolds swindled Atwellian refugees of their precious gems
 	- The kobolds seem to have escaped into the [[Locations/Djurum\|Djurum]]
 
-5. [[Unsigned Letter to Erwin Jest\|A strange note]] in Erwin Jest's possession mentions [[Locations/Gloomwood Locations/Haldrin's Tower\|Haldrin's Tower]]
-	- [[Karl Pardo\|Karl Pardo]] told the party that the [[Factions/Masked Order\|Masked Order]] would know more
+5. [[Party Notes/Unsigned Letter to Erwin Jest\|A strange note]] in Erwin Jest's possession mentions [[Locations/Gloomwood Locations/Haldrin's Tower\|Haldrin's Tower]]
+	- [[NPCs/Karl Pardo\|Karl Pardo]] told the party that the [[Factions/Masked Order\|Masked Order]] would know more
 	- Tortured [[Factions/Masked Order\|Masked Order]] victim confirmed they had information regarding the Tower before their execution
 
 6. A mysterious lump of purple flesh was recovered from [[NPCs/Erwin Jest\|Erwin Jest's]] orb after it was shattered
@@ -50,4 +50,9 @@
 	- The party believes they found their camp in the [[Locations/Caverns of Metamorphosis\|Caverns of Metamorphosis]].
 
 17. [[Vodos the Brazen\|Vodos the Brazen]], the proprietor of the notorious fighting ring [[Locations/The Kennell\|The Kennell]] in [[Locations/Leatherteeth\|Leatherteeth]], has a standing daily challenge for a duel - anyone who defeats Vodos will win all of their wealth
+
+18.  The party was attacked by a band of raiders in the [[Locations/Djurum\|Djurum]]. During the combat, a number of individuals escaped into the endless sands...
+	1. [[NPCs/Massik\|Massik]]: one of the raiders
+	2. [[NPCs/Agrak\|Agrak]]: a slave of [[NPCs/Shoss, the Sloven\|Shoss, the Sloven]]
+	3. [[NPCs/Garb\|Garb]]: follower of Shoss, Garb escaped with a magical water syphon
 

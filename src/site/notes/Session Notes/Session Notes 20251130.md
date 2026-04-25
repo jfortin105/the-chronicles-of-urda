@@ -44,7 +44,7 @@
 	- Wawa takes the 17 gold remaining in lockbox
 	- Paulo leaves 14 gp with the random peasant
 	- Wawa gets scruffed by Blagbrag who shakes all their money out and returns it to the lock box
-- [[Karl Pardo\|Karl Pardo]] gives them 20 gp as a reward
+- [[NPCs/Karl Pardo\|Karl Pardo]] gives them 20 gp as a reward
 	- Explains that he is leaving to see the Custodian and that most of the town has already left
 	- femur bone as funeral effigy of a lost soldier on his hip
 	- urges party to stay out of the coven business
