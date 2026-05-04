@@ -1,0 +1,97 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260503/"}
+---
+
+## Episode 22 - Starting Location: [[Locations/Djurum\|Djurum]]
+# Above Table
+- Rules being tweaked
+- Leveling up to 3
+	- everyone is leveled-up
+# 23rd of Vresh, year of 103, Fourth Age
+- Party finds:
+	- Clutched in the hands of [[NPCs/Kiro\|Kiro]]: 
+		- a well-worn, yet maintained mahogany pipe with ivory inlay with a description along the base: "to my desert wind, from your eternal flame" (25 gp)
+	- Dropped by [[NPCs/Xephon, Sorrowbringer\|Xephon, Sorrowbringer]]:
+		- [[Skull Cruncher\|Skull Cruncher]]
+		- Blagbrag can tell it is super cursed
+	- strung along [[NPCs/Kykaltis\|Kykaltis]]'s belt: 
+		- Vial of viscous red oil --> [[Kingslayer Oil\|Kingslayer Oil]]
+	- taken from [[NPCs/Trinna\|Trinna's]] still warm grasp:
+		- [[Magic Items/Finger-Daggers\|Finger-Daggers]]
+	- 4 XP!
+- Shoss wakes up and calls out for Garb
+	- "I know important people in the [[Factions/Chiropta\|Chiropta]] and [[Factions/Maazak Ul-Tiur\|Maazak Ul-Tiur]]"
+	- Paulo asks about [[Kytherian Cog\|Kytherian Cog]]
+		- "I know all about those, bring me back to my clan and I will tell you all about Kytherian Cogs"
+	- Paulo asks if Shoss knows about [[The Oasis\|The Oasis]]
+	- Monti says she will be enslaved if she is taken back to Shoss's clan
+	- 22 and Monti will escape to the caves to hide 
+		- 22 given the ivory pipe as a bartering object
+	- "let's get out of here before the gryff-vultures come" - Shoss
+- Party travels with Shoss
+	- Comes across caravan running perpendicular to them
+		- sigil marking on cloth matches Agrak's marking
+		- The [[Noble Storm\|Noble Storm]]
+			- Traders, living in salt flats
+			- "not great fighters" according to Shoss
+		- Shoss is a member of the [[Death's Oath\|Death's Oath]]
+	- Shoss seems hesitant about it
+		- Says they are another trading group
+	- Party tries to keep distance and follow the caravan into the war camp
+	- Shoss asks for his staff back
+- [[Factions/Chiropta\|Chiropta]] warcamp
+	- sandcrawlers made by orcs of mordor, with siege towers on top
+	- ordered rows and of war machines and marching foundations
+- Shoss leads them to a ruined ziggurat
+	- Guards confront Shoss - "Do you have Rinarial's money"
+	- climbs to top of ziggurat, looks down on camp
+	- Shoss leads them into the court of Rinariel
+		- Rinariel is a tall pale elf
+		- [[Noble Storm\|Noble Storm]] is selling salt and spices from the salt flats for water
+		- bunch of clans are trying to ride the coat tails of the 
+	- Shoss asks Blagbrag for 200 gp to smooth over things with Rinariel
+		- Blagbrag shows off the lamp and Shoss gets super covetous of the lamp
+			- "historical value"
+
+- [[Rinariel, the Whispering Blade\|Rinariel, the Whispering Blade]] enters the room
+	- Graceful, pale skinned elf with lots of scars from his neck down
+		- long black robes with pointed shoulders
+		- Long black rapier
+		- Lays across a soft daybed
+	- "please take a seat", "how do you know shoss"
+	- Blagbrag shows him the lamp and asks what it is
+	- Identifies the lamp as a reliquary for a Efreeti from the elemental planets
+		- "This is an object I have been looking for quite some time"
+	- Shoss tries to pin everything on the party
+		- "I found this item, they robbed us of our slaves, etc."
+	- Paulo steps out to counter Shoss and tell their story 
+		- Passes DC 12 CHA check to persuade Rinariel that Shoss is framing them
+	- Rinariel calls Garb in to testify
+		- He gives a truthful account
+		- Party agrees with testimony
+	- Rinariel agrees to answer 3 questions for saving Shoss
+		- Forgives them for freeing his slaves
+		- Q1: what are you going to do with the reliquary
+			- "Do you know [[Uthanax the Unwinder\|Uthanax the Unwinder]]?"
+				- GG passes INT check to recall legends
+					- Sphinx living in the Djurum
+			- "with this reliquary, I believe we can slay this beast"
+		- Q2: "Can you tell us what the Oasis is and where to find it?"
+			- The Oasis is the heart of the salt flats
+				- [[Noble Storm\|Noble Storm]] have a camp there
+				- Large number of Hulks
+					- Ancient, mechanical tombs
+				- Travel south for 1 week
+		- Q3: "would you be able to put us in contact with the [[Factions/Maazak Ul-Tiur\|Maazak Ul-Tiur]]?"
+			- Rinariel "I certainly am able to make that happen, but i would need a material benefit to do so"
+			- Party offers to share some of the reward
+			- Rinariel asks "what do you have for them"
+				- GG asks "what do you know of [[Kytherian Cog\|Kytherian Cog]]"
+					- Tales say there are only 7 cogs in existence
+					- They are associated with [[Lore/Kytheros\|Kytheros]], the God of Time
+				- BB says "we may know the location of a cog, if we can broker a deal you could get a cut"
+					- Rinariel says he will consider their offer, tells them to stay the night and rest and they well convene in the morning
+	- Tells them to hand over the reliquary to Garb
+		- Blagbrag hands the reliquary over to Garb
+		- Garb leaves with the reliquary
+	- Doors of the audience chamber open to the court
