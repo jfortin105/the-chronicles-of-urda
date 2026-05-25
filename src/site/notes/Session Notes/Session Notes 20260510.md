@@ -1,0 +1,133 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260510/"}
+---
+
+## Episode 23 - Starting Location: [[Locations/Djurum\|Djurum]]
+# 23rd of Vresh, year of 103, Fourth Age
+- [[Rinariel, the Whispering Blade\|Rinariel, the Whispering Blade]] parlays with the party
+	- Demands they hand over the reliquary containing an Efreeti
+		- Party hands it over to [[Garb, the Gorgon of Gaolich\|Garb, the Gorgon of Gaolich]]
+	- Rinariel offers them rest for the night
+	- Party requests that Rinariel sets up a meeting with the [[Factions/Maazak Ul-Tiur\|Maazak Ul-Tiur]] so they can sell off their [[Kytherian Cog\|Kytherian Cog]]
+- RETCONNED - 22 is tagging along with the party during all these events
+	- Monti stashed in caves 
+- Paulo looks for food/water source
+	- Servants refill containers in another chamber
+	- Door guarded by 2 guards
+		- Paulo fails DC 9 CHAR check to get past them
+- Paulo goes to the bathroom
+	- Asks a slave for their matching white togas
+		- Able to convince servant to get them a robe
+- 22 kisses a servant's feet
+	- tries to sleep in the slave quarters
+	- slave quarters are off limits to guests
+		- need assurances 
+- 22 approaches a guard
+	- asks to sleep in the slave quarters
+	- guards assume he is a sex pervert
+	- talks to the head guard (dwarf)
+		- "Rinarial says your wishes are to be followed"
+		- "I will personally accompany you to the lower chambers"
+- Servant leads BB and GG to their quarters
+	- Quad rooms, leads them into the first on the right
+		- Hot tub, feather beds, flowy robes
+		- Bell to call servants
+		- Servant closes door and locks it behind them - door doesn't unlock from the inside
+- Servant returns with robe for Paulo
+	- refuses his money
+	- morning shift starts at 4 am
+	- Rinarial takes different meals most days
+	- Kitchen is on one of the lower floors
+- Servant brings Paulo to BB and GG
+	- same person who lead BB and GG lead
+- Head Guard leads 22 to the slave quarters
+	- "pick which ones you desire"
+	- "I am responsible for your wellbeing"
+	- "we also have vegan jalapeno poppers"
+	- 22 picks out 5 men and 5 women
+		- Head Guards leads him upstairs to a BDSM room
+		- 22 asks him to leaves
+			- Passes DC 12 CHA check
+- Paulo, BB, and GG scheme and rest
+	- Paulo wants to sneak into slave quarters using disguise and poison Rinariel's food
+	- Should they recover the lantern? Should they kill Rinariel
+	- The Plan (TM)
+		- Paulo put on slave toga
+		- GG cast invisibility on Paulo
+		- Sneak into kitchen and poison Rinariel's food/drink
+		- Sneak and try to find the reliquary
+- GG studies [[Dari's Spellbook\|Dari's Spellbook]]
+	- Exorcism-like experience
+	- Mouth-frothing, eyes roll back, floating, collapses into water
+	- GG reclasses into Wizard!!!
+- 22 stands in the room with servants
+	- kisses everyone's feet
+	- tells his story
+		- 3 of the 10 are followers of Saint Terragnis
+	- "What do you require of us?"
+		- 22: "all of you will be free by the morning by Saint Terragnis"
+			- "You just need to follow me"
+		- They dynastic slaves of the [[Death's Oath\|Death's Oath]]
+			- Generations on generations have been enslaved to the Death's Oath
+	- "Where would we go? All we know is the ziggurat"
+		- 22 says he knows people in [[Locations/Gorm's Eye\|Gorm's Eye]]
+		- "We hear those are ruins filled with mad magicians who turn people into monsters to fight the Chiropta?"
+		- "We are safe and taken care of in the ziggurat, the world is dark and dangerous. Why should we leave for the sake of lofty ideals?"
+		- impression the slaves would need escape route provided, they are not likely to rise-up themselves
+			- 3 Saint Terragnis followers would be willing to be involved if they were clued into a plan
+	- 22's plan
+		- When 22 nods, plan initiates, the 3 followers are responsible for leading the other slaves
+
+# 24rd of Vresh, year of 103, Fourth Age
+- BB, GG, and Paulo wake up
+	- GG studies [[Shoss's Rod of Sleep\|Shoss's Rod of Sleep]] and identifies it
+	- GG slept in hot tub
+	- SC and BB mummy CON damage still present
+- 22 gets lead upstairs by the Head Guard, tells his plan to the others
+	- "When i give the words, the slaves will rise up"
+- Paulo dresses up as a slave
+- Paulo writes up a letter to frame Shoss, from "Jethro"
+	- "Esteemed Shoss, I have received your letter regarding your plans to extirpate Reinariel. That is quite genius. That bastard will not know what hit him! We shall rendezvous posthaste. I hope your adventures continue to excel.
+		-Jethro"
+	- Paulo keeps letter on his person
+- Paulo goes invisible
+- Scarface left in bed
+- Paulo stuffs pillows under the sheets
+- INITIATIVE:
+	- Round 1:
+		- GG: ring bells, talks to servant and keeps door open
+		- Paulo: takes 30 feet of movement to staircase
+		- BB: nothing
+		- 22: nothing
+	- Round 2:
+		- Servant says Rinariel will call on them in one other
+		- Paulo: Up to top floor
+	- Round 3:
+		- Paulo: makes it to the servant's doorway
+			- Does not see Rinariel or Garb or the lantern
+	- Round 4: 
+		- Paulo: moves into the kitchen
+	- Round 5:
+		- Paulo: watches the jugs
+			- Sees people putting together a tray of charcutier board with two glasses, one with red liquid and one with green liquid
+			- Servant is filling up wine jugs
+	- Round 6:
+		- Servant takes 4 jugs of wine and leaves kitchen
+		- Paulo: 30 feet of movement to follow
+	- Round 7:
+		- Servant descends a floor
+		- Paulo: still follows
+	- Round 8: 
+		- Servant enters Rinariel's quarters, leaves wine jug on a drink stand
+			- like dude lives in a terrarium
+		- Paulo drops kingslayer oil into the wine jug!
+	- Round 9:
+		- Paulo looks at Rinariel's letter and sees some half-sentences:
+			- "... we will lead them into the desert..."
+			- "... they don't understand the value of the cog..."
+			- "... I hope for all of our sakes, this turns out better than the last time..."
+		- Moves and gets out of Rinariel's chambers
+	- Round 10:
+		- Moves up the staircase, gets into slave hallways
+		- sees Head Guard going into Rinariel's quarters from a lower floor
+- Paulo keeps his head down and makes it back to the room!
