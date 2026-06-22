@@ -1,0 +1,100 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260614/"}
+---
+
+## Episode 26 - Starting Location: Staircase to the [[Locations/Caverns of Metamorphosis\|Caverns of Metamorphosis]]
+
+# 24rd of Vresh, year of 103, Fourth Age
+- 2 XP for chariot fight!
+- 22 takes off his clothes and takes off Paulo's clothes
+- Paulo has an 8 inch penis with 1 inch girth
+- DC 15 DEX check to capture stingbat in weighted article of clothes
+- Group prepares for combat
+	- GG attempts to sneak closer to cast sleep with [[Shoss's Rod of Sleep\|Shoss's Rod of Sleep]]
+		- Passes stealth check and casts sleep
+- everyone squashes stingbat
+- Kobold body
+	- missing hands
+	- deep X cut into torso
+	- pouch with medicinal herbs from the desert
+- When stopped to light torch, debris fall toward the party
+	- SC 5
+	- BB 13
+	- P 15
+	- 22 19
+	- GG 15
+	- Scarface takes 2 damage from falling debris
+	- Scarface lights torch
+- Paulo lights his torch as they approach the caves
+-  late evening as they enter [[Locations/Caverns of Metamorphosis\|Caverns of Metamorphosis]]
+- Someone has left torches around the entrance to staircase, Kobold bodies surround the staircase
+- Afflicted camp is barricaded
+	- GG looks over the top and sees the camp is dismantled, doesn't see anyone, but sees someone move distantly in camp
+	- Blood stains lead deeper into the caves
+- Party investigates
+	- BB ADV STR check DC 12 to keep integrity of barricade
+	- Food, other gear scrambled amongst the detritus of the camp
+	- No weapons, bodies
+	- traces of magic
+	- arrows embedded in the far barricade approaching room 3
+- GG presses up against the barricade
+	- hears a strange, sibilant ritualizing whispering sound
+	- looks through a crack and sees the hunched form of Afflicted hunched around a purple, sickly light
+- BB's lump of purple flesh is wriggling!!
+- BB tries to climb over the barricade
+	- [[NPCs/Oxnar\|Oxnar]] approaches BB
+		- Kobold's and 3 mercenaries attacked their camp in a coordinated ambush after the party left
+		- looking for "cog" and "agulhas"
+	- [[NPCs/Jacob\|Jacob]] saved the day by taking on a stange magic (purple light)
+	- [[NPCs/Helas\|Helas]] is wounded
+	- [[NPCs/Yadoslav\|Yadoslav]] is wounded and says Jacob is coming out his trance
+	- Party crawls over the barricade
+	- [[NPCs/Jacob\|Jacob]] no longer appears humanoid is a large flesh blob
+		- "I am sorry you have to see me in my ascended form"
+		- BB asks how we can help
+		- Jacobs says he asked their patron for power to protect them and was granted this new form
+			- "I am more powerful than I ever have been"
+		- Asks BB to retrieve the [[Krull's Stone of Withering\|Krull's Stone of Withering]] so they can destroy [[Locations/The Weeping Eye\|The Weeping Eye]] while Gorm's Eye is being attacked
+	- Party idea:
+		- take the Stone to [[Locations/West Heath\|West Heath]]
+	- Jacob offers to bless BB, blesses [[Skull Cruncher\|Skull Cruncher]]
+		- Curse and benefit +2
+	- Lump of purple flesh is growing in the purple light and seems to be growing a face
+- Party leaves the caves and enters the [[Locations/Feedlot\|Feedlot]]
+	- Lots of damage, smoke and fire coming from [[Locations/The Edge\|The Edge]]
+	- People fleeing the city
+	- Hecate legion soldiers marching towards [[Locations/The Edge\|The Edge]] an directing 
+- Chaos at the docks
+	- Hecate legion loading people on to big boats for [[Locations/Atwell\|Atwell]]
+	- Party's boat is gone!! 
+	- Impound lot has:
+		- 3 rowboats (200 gp)
+		- 1 sloop (500 gp)
+		- 1 river barge (300 gp)
+	- Paulo sneaks over to the impound shack
+		- 1 halfling inside with a dagger counting gold and sorting ledger
+			- 350 gold on the counter, 100 gold in each bag
+				- 3 full bags, 1 half bag
+		- Paulo takes goat piss, passes check
+			- +2 to STR and DEX checks, no penalties
+		- successfully restrains the halfling
+	- 22 takes off his clothes
+	- GG and BB find out an an important merchant family that starts with an A bought a bunch of boats and left this morning
+	- Scarface sneaks over to follow Paulo
+		- "what are you doing?"
+		- Paulo tries to convince Scarface to take the gold
+		- Scarface interrogates Paulo about the gold
+		- Scarface gives in and takes the gold, Paulo takes his iron spikes
+		- [[Factions/Arduinas Family\|Arduinas Family]] bought their boat
+	- GG CRIT on CHAR check to get sloop (the Island Dream) for 400 gp
+		- Hands over stolen bags of gold
+		- Paulo and GG both 25 gp
+		- rename Ruthger's Vengeance
+			- 10 seats
+	- Refugees approach while they are going to the boat and ask for passage
+		- 1 goblin family of 4 individuals
+	- Travel upriver to Atwell
+		- 1 hr per hex, 8 hexes = 8 hours
+	- 22 preaches to the family
+		- fails DC 18 CHAR check
+- Party rests with no disruptions and arrives at Atwell
