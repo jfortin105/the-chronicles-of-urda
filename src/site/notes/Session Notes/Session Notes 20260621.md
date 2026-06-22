@@ -1,0 +1,83 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260621/"}
+---
+
+## Episode 27 - Starting Location: [[Locations/Atwell\|Atwell]]
+# 25th of Vresh, year of 103, Fourth Age
+- Housekeeping:
+	- Sloop has 20 storage slots
+		- seats 10
+- Party approaches [[Locations/Atwell\|Atwell]]
+	- GG is elected Quartermaster and stays on the boat
+	- 100 legion soldiers
+	- 250 refugees
+- Shopping trip
+	- 22 buys 1 lantern and 2 oil flasks
+	- BB sells [[Magic Items/Finger-Daggers\|Finger-Daggers]] for 100 gp
+	- BB sells [[Magic Items/Vigilant\|Vigilant]] for 100 gp
+	- Boat stocked up with all the goods
+- 22 buys 30 rations to distribute to the refugees with one of his newspapers
+	- 22 antagonizes legion soldiers about
+- Paulo and Scarface go into the tavern, Raging River Lodge
+	- paulo confesses to lying to scarface about stealing the gold from the impound lot, tries to get Scarface to accept a drink
+	- "me telling you I lied to you is making you suffer, so you should be happy" - Scarface
+- [[Spinning Compass\|Spinning Compass]] roll
+	- 4 for BB
+		- bouncing between east and west
+	- 13 for 22
+		- bouncing between east and west, but seems to hesitate around NW
+- Numa is grouchy
+	- Gods are real but are cruel and fickle like my masters
+- Party travels to [[Locations/Bywater\|Bywater]]
+	- Numa departs! agrees to live in [[Locations/Bywater\|Bywater]]
+- Party finds [[NPCs/Ruthger Forstronge\|Ruthger Forstronge]]
+	- Ruthger is brewing something...
+	- DC 12 CON check
+		- on pass, 1d6 HP
+		- on fail, disadvantage on CON until you rest
+	- Ruthger gives them 4 concoctions 
+	- 22 leaves Ruthger with 3 rations
+- Party carouses!
+	- The Royal Blade
+		- Dwarvish golden ale
+		- known for dancing contests
+	- Event roll:
+		- P 4
+		- GG 4
+		- BB 8
+		- SC 2
+		- 22 2
+	- Carousing 
+		- roll of 4 (P, and GG):
+			- Kieren, Elven priest of Gede
+				- traveling minister of Gede
+				- donated 10% of total wealth to Kieren's congregation
+				- Gain 3 XP and a priest ally
+					- Owes them a great debt
+		- roll of 2 (SC and 22):
+			- sense of doing something at the blacksmith's
+			- had a great idea they are fuzzy on...
+				- Branding scarface?? matching brands??
+			- fined 20% of your total wealth for burning down the blacksmith's shop
+			- 2 XP and imprisoned in stocks for 3 days
+		- roll of 8:
+			- make some fast money with blade
+				- 15 gp for surviving a blindfolded knife demonstration unscathed
+				- 4 XP
+		- Party gets 3 XP for carousing! 
+		- Scarface and 22 are deeply ashamed of their actions
+		- BB donates his 15 gp and offers to help Una rebuild her home 
+			- Paulo donates 15 gp
+			- GG donates 10 gp
+			- BB, Paulo, GG
+- Killing time in Bywater...
+	- Night 1:
+		- BB and GG investigate [[Skull Cruncher\|Skull Cruncher]]
+		- Paulo talks to Scarface in the stocks
+			- tries to patch things up with Scarface
+			- "the only thing we can do is move forward" - Scarface
+			- Scarface has no identity and does not deserve anything
+	- Montage of events to resolve!
+- above table Scarface lore
+	- Suffering to remind he is not better than anyone
+	- 
