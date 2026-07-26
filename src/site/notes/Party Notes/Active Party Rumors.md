@@ -18,7 +18,7 @@
 	- Kobold footprints were found in the area where [[NPCs/Monti\|Monti]] went missing
 	- Kobold's and the [[Factions/The Dark Lions\|The Dark Lions]] attacked [[The Afflicted]\|The Afflicted's Camp]]
 
-4. There be Dragons
+4. A stranger approached the party on the road and gave them a strange note.
 	- A winged beast drove [[Mortimus\|Mortimus]] and his kobold brethren from their homes in the north-west of [[Locations/Old Lystria\|Old Lystria]] to [[Locations/Gorm's Eye\|Gorm's Eye]]
 	- [[NPCs/Brynwulf\|Brynwulf]], friend of [[NPCs/Ruthger Forstronge\|Ruthger Forstronge]] and a priest of [[Lore/Saint Nargo\|Saint Nargo]], believes [[NPCs/Azgomar\|Azgomar]], a cosmic dragon, is being summoned by a [[Lore/Dragon Cults\|Dragon Cult]]
 	- [[NPCs/Brynwulf\|Brynwulf]] told the party to find him in [[Locations/West Heath\|West Heath]]

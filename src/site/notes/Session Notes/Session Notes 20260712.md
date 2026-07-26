@@ -1,0 +1,89 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260712/"}
+---
+
+
+## Episode 28 - Starting Location: [[Locations/Bywater\|Bywater]]
+# 28th of Vresh, year of 103, Fourth Age
+- Probation in [[Locations/Bywater\|Bywater]]!!
+	- Scarface lore drop
+		- Suffering to remind he is not better than anyone
+	- [[Kieren\|Kieren]], priest of [[Lore/Gede\|Gede]] is now their friend and companion
+	- Scarface and 22 burn down the blacksmith's shop
+	- BB survives knife throwing
+- BB checks magic compass
+	- NAT 20!!
+	- Reads due west after BB smacks the compass
+- What to do with the boat?
+	- Full of supplies
+	- Dock in [[Locations/Bywater\|Bywater]]
+		- [[Mechanics and Rules/Boat Lodging\|Boat Lodging]] - 1 gp
+	- Varond the Dock-Keeper
+		- haggling over rowing them over
+		- gives them "Purple Haze" to signal him to pick them up
+			- 22 holds
+		- "Why are you going into the Gloomwood?"
+			- There is a slender man who stalks the trees
+		- 5 years ago, a farmer started a compound and disappeared
+- Party enters [[Locations/Gloomwood Locations/The Gloomwood\|The Gloomwood]]!!
+- Approaches [[903 - Shattered Tower\|903 - Shattered Tower]]
+	- Front door ajar
+		- GG peaks in
+			- Sees staircase going up and a trap door in the floor
+				- Trap door has iron bar inserted through handle, keeping it closed
+			- Passes WIS check - notices human-sized footprints going up the stairs
+		- GG calls upstairs, with no response
+	- GG and SC walk upstairs to investigate
+		- Paulo following behind stealthy rolled na8 
+	- on 2nd floor
+		- strange lunatic writing covering the walls 
+			- clock motifs
+			- repeated mention of time
+			- "We are all cursed to the dark"
+	- 22 taps on the trap door
+		- hears wet sounds and screeching sounds
+		- starts carving a hole
+			- see a flooded cisterns, spits into it, smacks the door, screams into the eye hole
+			- Giant masses slams against the trap door
+				- "endless mouths and eyes"
+	- on the 3rd floor
+		- super old dude spread eagle on the floor staring at the sky
+			- Pure black eye balls
+		- Scarface says hi
+			- He turns to the group and begins repeating the phrase "so much time has passed"
+		- Asks why he can't leave
+			- "Cursed by the Lord of Time" 
+			- "must count the sand"
+			- "cannot talk about the basement"
+			- "all the versions of myself across the infinite time have been merged into one singularity"
+			- "Don't go to the Stone Circle, stay and count the sand if you want to be safe"
+			- "I am from a place that no longer exists because it was devoured by time"
+			- "the cogs fuse with the mechanism to form the device that gives you power from the Lord of Time"
+				- seems more lucid than when talking about the cogs and mechanism
+			- from [[Lore/Second Age\|Second Age]]
+			- SC asks if [[Hana, Counter of Sands\|Hana, Counter of Sands]] knows [[The Arbiters\|The Arbiters]]
+				- Delirious response.
+			- "There is no sand in the basement"
+- Should the party go after the [[Kytherian Cog\|Kytherian Cog]]??
+	- GG casts light into cistern
+		- sees 2 gibbering mouthers
+		- sees washed up detritus and wooden furniture with strongbox on top
+- Party continues west, rests in 803
+- Enters 703
+- Enters 603, skeletons attack!
+	- GG casts Cleanse Weapon and FAILED
+	- SK1 crits on SC for 8 damage
+	- SK2 hits 22 for 5 damage
+	- SK 4 hits BB for 3 damage
+	- GG fails on Protection from Evil
+	- SK4 hits SC for 1
+	- GG uses Fixed Object on SK3's shortsword
+	- SK3 hits GG for 3 damage
+- Find a [[Dried Rose\|Dried Rose]] that seems to be preserved magically
+	- Name carved into stem : "Voruna"
+- Evening approaches
+	- BB on watch
+		- Sees dozen of flitting lights in the distance
+			- Sing song, sonnet voice on the wind
+			- Thinks they are will-o-wisps
+			- Does not approach, tells the squad about it in the morning

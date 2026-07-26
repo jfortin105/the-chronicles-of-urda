@@ -7,7 +7,7 @@
 # Resting
 - Injured characters can rest to recover from their wounds
 - To rest, a character must consume a ration and sleep for 8 hours
-	- Sleep can broken up for light and routine tasks, such as taking a turn on watch
+- Sleep can broken up for light and routine tasks, such as taking a turn on watch
 
 # Success
 - A character who successfully rests regains all lost HP and recovers any stat damage

@@ -14,9 +14,6 @@
 
 # Traveling Checks
 - Weather event d6 check at start of day
-- Navigation check
-	- PCs in unfamiliar territory must have their navigator make an INT check upon exiting a hex
-	- On a failure, the group moves into a random, adjacent hex
 
 # Rations
 - PCs can go three days without consuming a ration
@@ -24,6 +21,10 @@
 	- Death at 0 CON
 - PCs can forage for 1 ration per day with an INT check
 
+# Campfires
+- Characters can combine 3 torches into a campfire
+	- Can't be moved once lit
+	- Lasts 8 hours while at least one character remains near to it
+	- Casts light out to a near distance
 # Boat Docks
-- 1 gp per day for common dock
-- pay down days 
+- [[Mechanics and Rules/Boat Lodging\|Boat Lodging]]
