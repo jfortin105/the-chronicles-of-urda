@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mechanics-and-rules/learning/"}
 ---
 
-#Mechanics-Rules [[Mechanics - Rules\|Mechanics - Rules]]
+#Mechanics-Rules [[Mechanics and Rules/Mechanics - Rules\|Mechanics - Rules]]
 
 # Learning
 - You can use [[Mechanics and Rules/Downtime\|Downtime]] to learn a new skill

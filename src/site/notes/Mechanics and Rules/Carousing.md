@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mechanics-and-rules/carousing/"}
 ---
 
-#Mechanics-Rules [[Mechanics - Rules\|Mechanics - Rules]]
+#Mechanics-Rules [[Mechanics and Rules/Mechanics - Rules\|Mechanics - Rules]]
 
 # Carousing
 - When you return from your adventures, you can use [[Mechanics and Rules/Downtime\|Downtime]] to carouse and celebrate your heroic exploits

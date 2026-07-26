@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mechanics-and-rules/rations/"}
 ---
 
-#Mechanics-Rules [[Mechanics - Rules\|Mechanics - Rules]]
+#Mechanics-Rules [[Mechanics and Rules/Mechanics - Rules\|Mechanics - Rules]]
 - PCs can go three days without consuming a ration
 - PCs take 1 CON damage each day after that 
 	- Death at 0 CON

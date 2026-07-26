@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mechanics-and-rules/resting/"}
 ---
 
-#Mechanics-Rules [[Mechanics - Rules\|Mechanics - Rules]]
+#Mechanics-Rules [[Mechanics and Rules/Mechanics - Rules\|Mechanics - Rules]]
 
 # Resting
 - Injured characters can rest to recover from their wounds

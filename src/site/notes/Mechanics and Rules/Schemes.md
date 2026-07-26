@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mechanics-and-rules/schemes/"}
 ---
 
-#Mechanics-Rules [[Mechanics - Rules\|Mechanics - Rules]]
+#Mechanics-Rules [[Mechanics and Rules/Mechanics - Rules\|Mechanics - Rules]]
 
 # Schemes
 - You can use [[Mechanics and Rules/Downtime\|Downtime]] to progress a goal, objective, or long term plan of your character

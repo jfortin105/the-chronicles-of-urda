@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mechanics-and-rules/home-rules/"}
 ---
 
-#Mechanics-Rules [[Mechanics - Rules\|Mechanics - Rules]]
+#Mechanics-Rules [[Mechanics and Rules/Mechanics - Rules\|Mechanics - Rules]]
 ## Characters and Character Sheets
 ###### Stats:
 - Standard array ---> roll 3x 3d6 and assign as you wish
@@ -46,4 +46,4 @@
 ###### Natural 1's (AKA fumbles)
 - Rolling a natural 1 with a material weapon will impose a -1 damage penalty to that weapon. These penalties cannot total negate a weapons damage potential and cap at a minimum damage value of 1.
 
-[[Mechanics - Rules\|Mechanics - Rules]]
+[[Mechanics and Rules/Mechanics - Rules\|Mechanics - Rules]]
