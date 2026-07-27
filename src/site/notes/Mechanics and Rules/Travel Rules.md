@@ -8,8 +8,8 @@
 
 | method  | hexes |
 | ------- | ----- |
-| Walking | 4     |
-| Mounted | 6     |
+| Walking | 2     |
+| Mounted | 4     |
 | Sailing | 8     |
 
 # Traveling Checks
