@@ -1,0 +1,103 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260726/"}
+---
+
+## Episode 29 - Starting Location: [[Locations/Gloomwood Locations/The Gloomwood\|The Gloomwood]]
+# 29th of Vresh, year of 103, Fourth Age
+- Wake up in hex 603
+- Moves to hex 503 and see the crenellations of a keep in the distance
+- Approaches the keep, enters 503
+	- appears to be dissolving
+		-  The ruined keep is slowly collapsing into mush. The stones feel spongy and have a dripping, melted-wax appearance. The crenels fold and sag, and loose rubble has stewed down into pools of globby mortar.
+	- non-spell otherworldly presence appears to be affecting the keep
+		- According to 22's third eye
+- decide to make camp and scout out the situation
+	- Make a campfire
+		- GG scavenges firewood
+		- BB gives a torch
+- 22 makes a scarecrow near the entrance double doors
+	- strips naked
+	- hears a snarling, ululating shrieking sound
+	- after hearing the sounds, throws rocks at the door and runs away
+	- As he is running away, sees 4 [[Howlers\|Howlers]] peak out of the door
+		- run out in a pack, beat up the scarecrow and drag it inside
+			- 2 loses his rope
+- Makes camp for the night
+	- BB takes watch
+	- over night, doesn't see anyone leave or enter keep
+		- hears large wet thumping sounds in the river
+# 29th of Vresh, year of 103, Fourth Age
+- Scarface goes to forage
+	- NAT 1
+	- hears, heavy methodical footsteps through the swamp
+		- 250 feet away
+	- Sees a large stone statue plodding through the swamp
+- BB and GG go hunting
+	- Track down a crocodile
+		- 3 rations worth
+	- decide not to pursue the beastie
+- 22 and Paulo dig a hole near the entrance and cover with leaves and sticks
+	- big enough for 1 person to fall in to
+	- A bit away from the door
+- Leaving 1 ration spread out in front of door
+	- keeping 1 ration with them
+- Stand behind pit
+- GG knocks on the door
+	- hears ululating shriek and running feet approaching
+	- casts mage armor
+- Halflings run out and attack!
+	- one falls into the hole
+	- one hits GG for 3 dmg
+- Scarface tries to convince them they come in peace and are offering them food
+	- 17 CHA roll
+	- lead halfling seems to hesitate
+- GG tries to cast Burning Hands and fails!
+- 22 tries to restrain halfling in the hole with BB's rope
+	- FAILs
+- Paulo tries the same and succeeds
+- BB tries to grapple H3
+	- "This is a friendly hug"
+- lead halfling [[Harfold\|Harfold]] speaks: 
+	- "why do you bring us food? what do you seek?"
+	- "we should take them to Gordock"
+	- "release our kindred and we will take you to our warchief"
+- Party agrees to meet [[Gordock Breeg\|Gordock Breeg]]
+	- "he has visions from drinking algae water"
+- Enters the Keep
+	- Entry Hall
+		- covered in mud
+	- Memorial Chamber
+		- Mud tracks leading into acid quicksand!!
+	- Howler's Camp
+		- [[Gordock Breeg\|Gordock Breeg]]
+			- welcomes them to camp to discuss [[Mugdulblub\|Mugdulblub]]
+			- Asks if they seek his favor
+				- Offers them [[Mugdulblub]\|Mugdugblub's Favor]] if they help them finish off the Bittermolds
+				- Party is suspicious
+				- Offers safe passage for 1 day
+- Party explores
+	- Returns to Room 2
+		- GG removes the stone in the busts's mouth, prompting its song evoking a shout in the distance
+	- Enters room 5
+		- finds a young scared human (Carg) and a burned corpse (Garc) holding a silver item
+			- tried to find an easy score in [[Locations/Gloomwood Locations/The Gloomwood\|The Gloomwood]]
+			- wants to get out of here!!
+			- Said that some "melting human" tried to grab him from a secret door
+		- Compass rose carved into floor
+		- Party and Carg come to an agreement
+			- They will help each other!
+	- Enters room 6
+		- pedestal of lumpy stone holding glass bowl of ashes
+			- Glizgliz looks into the bowl and sees
+		- frigid air
+		- shredded, crimson banners
+	- Enters room 9
+		- 4 halflings on guard for bittermold's coming from the west
+			- Clove grumbles about Gordock
+			- Gabby is flustered about Gordock
+				- Warns them about something in room 7
+			- Merv and Tobin want hot meals and ale
+		- Scarface gives them a ration
+	- Looks into room 7
+		- Sees holes along east wall
+		- double door on the west
