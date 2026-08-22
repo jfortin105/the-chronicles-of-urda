@@ -16,6 +16,8 @@
 
 # People:
 - [[Factions/Chiropta\|Chiropta]]
+- [[Rinariel, the Whispering Blade\|Rinariel, the Whispering Blade]]
+- [[Death's Oath\|Death's Oath]]
 - [[Factions/Crimson Dread\|Crimson Dread]]
 - [[NPCs/Monti\|Monti]]
 - [[NPCs/Shoss, the Sloven\|Shoss, the Sloven]]

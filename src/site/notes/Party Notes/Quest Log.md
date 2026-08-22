@@ -74,6 +74,9 @@
 	- The party fought off Rinariel's cohort and escaped with this body
 	- They brand Rinariel's body with the symbol of [[Lore/Saint Terragnis\|Saint Terragnis]] and send the chariot with his body towards the siege camp while making their escape.
 
+## The Cursed Forest
+- The party entered [[Locations/Gloomwood Locations/The Gloomwood\|The Gloomwood]] looking for [[Krull's Stone of Withering\|Krull's Stone of Withering]]
+- The party found [[Locations/Gloomwood Locations/Bittermold Keep\|Bittermold Keep]] and its inhabitants, [[The Howlers\|The Howlers]] and [[Bittermold Family\|Bittermold Family]] fighting for the favor of [[Mugdulblub\|Mugdulblub]]
 
 # Rumors / Minor Quests
 
