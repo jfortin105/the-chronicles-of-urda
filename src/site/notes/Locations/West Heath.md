@@ -4,11 +4,10 @@
 
 
 # Description
-- Pilgrimage site and abbey of the [[Lore/Venerated Souls\|Venerated Souls]] in [[The Nokar Expanse\|The Nokar Expanse]]
+- A pilgrimage site and sanctum of the [[Lore/Venerated Souls\|Venerated Souls]]
 	- [[Lore/Saint Terragnis\|Saint Terragnis]]
 		- reliquary of locks of the saints hair
 	- [[Lore/Saint Nargo\|Saint Nargo]]
-	- [[Saint Ydris\|Saint Ydris]]
 # Locations
 # People
 - [[NPCs/Brynwulf\|Brynwulf]]

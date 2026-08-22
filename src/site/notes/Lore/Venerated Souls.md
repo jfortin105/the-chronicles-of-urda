@@ -10,6 +10,7 @@
 	- Folk gods
 	- Local heroes
 	- household gods
+	- Spirits
 	- Significant personal from the [[Lore/Didachian Hegemony\|Didachian Hegemony]]
 		- [[Lore/Arrhidaeus\|Arrhidaeus]] coopted the Venerated Souls to help stabilize their conquests and incorporated many of their closest companions and generals into the pantheon
 - In the [[Lore/Fourth Age\|Fourth Age]], the Venerated Souls continues to be one of the most practiced Faiths
