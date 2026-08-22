@@ -28,7 +28,7 @@
 - Making torches
 	- INT based check, DC determined by location/area
 - Letters/paper can be bundled into 1 inventory slot
-## Active Play
+# 11th of Vresh, 103yr 4A
 - Evenly distributed XP from carousing, all level 2
 - Party wakes up blearly... Juma is not present
 	- Lockbox behind the counter, Wawa tries to bust it open
@@ -68,7 +68,8 @@
 		- Una the Blacksmith has an old broken boat that the party could use if they repair it
 		- Party sleeps and Glizgliz tries to decipher the Staff
 			- Curved staff with red river rocks that resembles a snake (Staff of the Cobra)
-- Wake up in Bywater  - 12th of Vresh, 103yr 4A
+# 12th of Vresh, 103yr 4A
+- Wake up in Bywater
 	- 22 + Wawa + Glizgliz --> Ruthger flowers
 		- Ruthger's big day
 			- Glizgliz and 22 split 10 gp price for prized peonies

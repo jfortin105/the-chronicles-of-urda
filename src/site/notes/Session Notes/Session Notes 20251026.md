@@ -65,7 +65,7 @@
 	- Inn
 	- 10 houses/farmsteads/cattle ranching
 
-## Gameplay
+# 10th of Vresh, 103yr 4A
 - Paulo, Blagbrag, and 22 start in the bar
 - Wawa and Glizgliz come down the road bickering
 - Glizzo buys strew and mead for 22 and BB

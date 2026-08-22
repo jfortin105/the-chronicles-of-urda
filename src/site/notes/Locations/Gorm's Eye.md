@@ -5,12 +5,11 @@
 # Description
 - City in [[Locations/Old Lystria\|Old Lystria]], [[Lore/Fourth Age\|Fourth Age]]
 - Originally a barracks of the [[Lore/Tagmata\|Tagmata]] army, the [[Factions/Hecate Legion\|Hecate Legion]] during the [[Lore/Third Age\|Third Age]]
-- Gorm's Eye is military redoubt and trading post at the edge of the border lands, one of the last strongholds [[Lore/Arrhidaeus\|Arrhidaeus]] founded before his death. 
+- Gorm's Eye is military redoubt and trading post at the edge of the border lands
 	- Below its cliffs lie the ancient ocean bed of the [[Locations/Djurum\|Djurum]].
 	- After the [[Lore/Lystrian Crusade\|Lystrian Crusade]], the area was settled by [[Ancestries/Halflings\|Halflings]] and [[Ancestries/Humans\|Humans]] loyal to the [[Lore/Didachian Hegemony\|Didachian Hegemony]], with most settling in Gorm's Eye
 	- The [[Factions/Chiropta\|Chiropta]], a rival splinter faction of the [[Lore/Tagmata\|Tagmata]], have been sieging Gorm's eye for 2 years
 - the [[Factions/Hecate Legion\|Hecate Legion]] lays claim to Gorm's Eye with military control and nominal ruling power.
-	-
 - and the [[Factions/Masked Order\|Masked Order]] rule Gorm's Eye
 	- [[Factions/Hecate Legion\|Hecate Legion]] rules from their keep, the [[Hecatrix\|Hecatrix]] which guards [[Locations/The Bronze Stairs\|The Bronze Stairs]] that descend into the [[Locations/Djurum\|Djurum]]
 # Locations

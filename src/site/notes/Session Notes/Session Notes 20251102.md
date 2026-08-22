@@ -27,7 +27,7 @@
 | Sailing           | 1 hrs     |
 | Difficult Terrain | 2x normal |
 | Arduous Terrain   | 8 hours   |
-# Active Play
+# 11th of Vresh, 103yr 4A
 - Party travels
 	- 501 -> 502 -> 503 -> 504
 - Travel Encounter Hex 504:
