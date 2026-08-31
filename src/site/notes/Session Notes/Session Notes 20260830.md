@@ -1,0 +1,82 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260830/"}
+---
+
+## Episode 29 - Starting Location: [[Locations/Gloomwood Locations/Bittermold Keep\|Bittermold Keep]]
+# 30th of Vresh, year of 103, Fourth Age
+-  [[Plogrina Bittermold\|Plogrina Bittermold]] and 4 Bittermolds appear to meet them and bring them to [[Mugdulblub\|Mugdulblub]]!
+	- Wearing jewels
+	- Elongated fingers and nose
+	- Tells them they will need a sacrifice of a person or magical item to grant an audience with Mugdulblub
+- GG talks to [[Globriella\|Globriella]]
+	- Tells him that the keep was transformed when Mulguldblub appeared during her grandfather's reign
+	- He "expired" but his grave is a holy site to the bittermolds
+- Enters Mugdulblub's Chamber!
+	- 22, Scarface, and Carg experience horrific visions of dissolution that feel entirely real
+- Makes an offering to [[Mugdulblub\|Mugdulblub]]!
+	- Blagbrag drops [[Skull Cruncher\|Skull Cruncher]]
+	- 22 pops one of his leprosy sores into the ooze
+- [[Mugdulblub\|Mugdulblub]] has the [[Krull's Stone of Withering\|Krull's Stone of Withering]] and knows that the party is looking for it
+	- Image of multi-armed being sacrificing the relic to [[Mugdulblub\|Mugdulblub]]
+	- gives [[Characters/Blagbrag\|Blagbrag]] visions of a woman and tomb-cairn
+		- Hungers for the bones of the druid-mother!
+		- Will give them stone in exchange
+	- [[Plogrina Bittermold\|Plogrina Bittermold]] tells Blagbrag that the woman is the Druid-Mother of Old Lystria
+		- Lived for hundreds of years
+- [[Plogrina Bittermold\|Plogrina Bittermold]] asks them to help the Bittermolds clear out the [[Howlers\|Howlers]]
+	- Tells them about their camp deeper in the caves under the keep
+	- Tells them about the catfish deep in the caves
+		- Lead by the Old One
+- Exploring the caves under Bittermold Keep
+	- Find river tunnel leading to the surface
+	- Find pool of mutant catfish!
+		- Old Wise one speaks to them
+			- Been there longer than the bittermolds
+			- Hate Mugdulblub
+		- Offers them their greatest treasure if they bring him the head of Plogrina or Gordock
+		- Golden catfish is exiled brother of the Old Wise One who was cursed by Mugdulblub
+		- Catfish showed the Bittermolds where other fish were in order to keep them out of the deeper caves where the relic is
+		- Other creatures in the keep are dangerous and cannot be reasoned with
+	- Won't let party through their territory without paying a toll of 84 gold or 4 rations
+		- 22 gives them 4 rations
+- Party leaves Bittermold Keep and sleeps through the night
+	- Paulo and GG scavenge for torches/campfire
+		- 2 NAT 20s!
+		- GG gets two torches
+		- Paulo makes a campfire and has a torch
+
+# 31st of Vresh, year of 103, Fourth Age
+- Carg packs his bag and leaves
+	- GG points out dangers they have seen so far
+	- Carg tells them to look him up in [[Locations/Gorm's Eye\|Gorm's Eye]]
+- Leave for 402
+	- no events
+- Leave for 502
+	- Enters forest
+	- Sees a large bear eating a wolf
+		- Seems territorial
+- Decides to push through the night, entering 602
+	- Passes
+		- Paulo
+		- Blagbrag
+	- Fail - Exhausted condition (DISADV on physical checks until rest)
+		- 22
+		- SC
+		- GG
+	- Sees a tall markerstone in the distance
+	- rests for the evening/night
+		- Consumes ration
+			- Paulo
+			- 22
+			- SC
+			- GG
+			- BB
+		- BB hears large figure plodding through the woods, but does not investigate
+# 32nd of Vresh, year of 103, Fourth Age
+- wake up around noonish after having pushed
+- Approaches [[602- Marker Stone\|602- Marker Stone]]
+	- See a large stone obelisk
+		- Spiral marking
+		- 4 mounds against sides on the cardinal directions
+	- GG unconvers a stone coffin
+		- red eyes open and lunges towards the party!

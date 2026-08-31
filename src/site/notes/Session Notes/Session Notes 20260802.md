@@ -1,0 +1,107 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260802/"}
+---
+
+## Episode 29 - Starting Location: [[Locations/Gloomwood Locations/Bittermold Keep\|Bittermold Keep]]
+# 30th of Vresh, year of 103, Fourth Age
+- Enters Ancient Fountain room
+	- BB looks at bas relief
+		- many fingered guy eating a heart shaped stone
+	- BB pulls out the catfish from the pearl fountain
+	- Asks Carg about the bas-relief
+		- The lord of Bittermold Keep had a magic ruby that let him walk through fire unscathed. It was a gift from a demon!
+	- Carg drinks from the white fountain
+		- Heals 6 HP
+		- Gains a split tongue
+	- 22 and Paulo drink from the black fountain
+		- causes violent coughing and hacking and puking
+		- seems to be a purgative
+	- 22 drinks from the white fountain
+		- Grows an extra thumb on his right hand next to his pinky
+	- GG drinks from the white fountain
+		- Longer sharper teeth
+	- G drinks from the white fountain
+		- Grows an extra eye on left forearm
+	- Paulo drinks from the white fountain
+		- Grows an extra eye on the right hand
+	- BB drinks from the white and then black fountain
+		-  Longer, sharper teeth.
+		- No changes from order of drinking fountains
+	- Paulo bottles up the white fountain pink water
+- enters room with wall of holes
+	- BB sees something sparkinling and whips out
+		- Locket
+			- Portal to Hell Planet!
+			- Pentagram
+	- Ichor ooze begins to protude!
+	- Party runs around
+- Party goes through door guarded by [[Howlers\|Howlers]]
+	- knock 4 times to enter
+- Paulo and Carg notice arrow slit in the hallways
+	- Paulo uses his eye hand to see inside, sees 3 skeletons!
+		- Shoot and he dodges
+	- BB uses his shield to block the arrow slit!
+- Enters the cave
+	- Avoids acid quicksand!
+	- sees X stalactite
+		- GG tries to rub it, nothing happens
+		- GG sucks it, nothing happens
+		- Carg runs and smacks it, gets a luck token!
+- Goes down the south hallway
+	- sees more arrow slits!
+- Finds the Golden Catfish
+	- BB feeds it a ration!
+		- Offers to answer a question in exchange for their kindness
+			- BB asks: "do you know naything about about a magical stone to be found here "
+				- Rolled 76
+		- 5 gp per additional question
+			-  Shows him the locket (86)
+				- "locket is connected to other planet, something not on Urda"
+		- Catfish appears to be native to the caverns, but mutated from [[Mugdulblub\|Mugdulblub]]'s presence
+	- Tells them that other catfish are more grumpy and in the east
+- Proceeds down the south hallway, uses rock and shield to block the arrow slit
+- find rusty thick door with hefty locked keyhole, covered in runes
+	- knocks on the door, just hears echoes!
+- Proceeds through steam room, enters humming cave
+	- Tar bats sleeping along north wall!
+		- Appear to be sleeping, but sensitive to light
+	- Party covers up torch with held up cloak to shield the light
+		- Takes all 4 paintings! (10 gp each)
+			- Find an old parchment scrap stuck to the back of one
+				- It says: "The door is behind my statue. -R.B."
+			- 1 XP!
+- 4 hours has passed
+- Enters mushroom room
+	- GG identifies they are hallucinogenic if consumed
+- Looks into adjacent room
+	- Sees statue lodged in a gelatinous cube!
+	- GG and BB use ranged attacks to kill the cube!
+	- GG finds hidden compartment:
+		- Gold [[Hummingbird Charm\|Hummingbird Charm]] necklace (30 gp), grants advantage once/day on a DEX check
+			- GG has in possession
+		- 1 XP!
+	- Proceeds from mushroom chamber, Paulo unlocks door!
+		- Enters empty prison cell, hears footsteps approaching!
+			- Torch goes out!
+		- Scarface calls out to the strange humans
+		- "Outsiders! Bring them to my mother to sacrifice"
+			- 4 bittermolds try to grapple Scarface
+				- fail!!
+			- 22 turns his staff into a giant snake
+				- Bites the angry woman twice
+					- restricted!
+						- Used Carg's luck token
+						- Nat 20
+		- Paulo calls out for them to stand down
+			- Rolls 17 CHAR
+			- Globriella introduces herself and tells them to stand down
+				- GG shows off her mutations and wings, convinving them they are follow pilgrims!
+				- Globriella apologizes and says she will take them to her mother
+		- [[Plogrina Bittermold\|Plogrina Bittermold]] and 4 Bittermolds appear to meet them and bring them to [[Mugdulblub\|Mugdulblub]]!
+			- Wearing jewels
+			- Elongated fingers and nose
+			- Tells them they will need a sacrifice of a person or magical item to grant an audience with Mugdulblub
+		- GG talks to [[Globriella\|Globriella]]
+			- Tells him that the keep was transformed when Mulguldblub appeared during her grandfather's reign
+			- He "expired" but his grave is a holy site to the bittermolds
+		-
