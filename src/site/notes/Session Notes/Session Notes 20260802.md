@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/session-notes/session-notes-20260802/"}
 ---
 
-## Episode 29 - Starting Location: [[Locations/Gloomwood Locations/Bittermold Keep\|Bittermold Keep]]
+## Episode 30 - Starting Location: [[Locations/Gloomwood Locations/Bittermold Keep\|Bittermold Keep]]
 # 30th of Vresh, year of 103, Fourth Age
 - Enters Ancient Fountain room
 	- BB looks at bas relief

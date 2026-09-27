@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/session-notes/session-notes-20260920/"}
 ---
 
-## Episode 33 - Starting Location: [[Standing Stones\|Standing Stones]]
+## Episode 32 - Starting Location: [[Standing Stones\|Standing Stones]]
 # 32nd of Vresh, year of 103, Fourth Age
 - Approaches [[Standing Stones\|Standing Stones]]
 	- See a large stone obelisk

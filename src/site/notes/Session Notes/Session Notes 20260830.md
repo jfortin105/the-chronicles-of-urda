@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/session-notes/session-notes-20260830/"}
 ---
 
-## Episode 29 - Starting Location: [[Locations/Gloomwood Locations/Bittermold Keep\|Bittermold Keep]]
+## Episode 31 - Starting Location: [[Locations/Gloomwood Locations/Bittermold Keep\|Bittermold Keep]]
 # 30th of Vresh, year of 103, Fourth Age
 -  [[Plogrina Bittermold\|Plogrina Bittermold]] and 4 Bittermolds appear to meet them and bring them to [[Mugdulblub\|Mugdulblub]]!
 	- Wearing jewels
