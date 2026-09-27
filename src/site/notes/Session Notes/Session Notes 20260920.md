@@ -1,0 +1,125 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/session-notes-20260920/"}
+---
+
+## Episode 33 - Starting Location: [[Standing Stones\|Standing Stones]]
+# 32nd of Vresh, year of 103, Fourth Age
+- Approaches [[Standing Stones\|Standing Stones]]
+	- See a large stone obelisk
+		- Spiral marking
+		- 4 mounds against sides on the cardinal directions
+	- GG unconvers a stone coffin
+		- red eyes open and lunges towards the party!
+- Combat!
+	- Initiative
+		- BB: 18
+		- 22: 14
+		- SC: 10
+		- GG: 8
+		- Paulo: 7
+		- Wight: 1
+	- 22 uses his third eye to see this is a Greater Undead
+	- Mouth is sewn shut but appears to have something in it.
+	- GG casts Cleansing Weapon on Paulo
+	- Paulo hits for 4 from the flames, slashing the face and revealing
+	- Wight hits Paulo CRITS for 11 damage
+		- Life drains glizzy for 1 CON damage
+	- BB tackles the Wight
+		- wins contested str roll
+	- 22 gives Paulo Ruthger's Concoction from P's inventory
+		- CRIT 2d6 = 6 hp
+	- Scarface tries to cut off the Wight's head
+		- Successfully decapitates the Wight
+	- 22 sees that sapphire has the same swirl pattern as the standing stone, and a gem-sized indentation on the standing stone above the coffin
+	- GG picks up the head, runs it into the coffin, and hits it with burning hands
+		- 6 fire damage
+	- Paulo stabs the wight and kills it!
+		- cleansing flame = 6
+- Slots the sapphire into the groove
+	- Glow has an otherworldly presence
+- Setting the scene
+	- 22 opens the coffin
+	- try to cut off the head
+	- close the body back into the coffin
+		- Will need to be kept closed
+
+- Coffin #2
+	- Surprise Round
+		- BB: NAT 20
+			- Cuts off the head!!!
+			- Grabs the head
+		- 22: slams lid closed
+		- SC: crits on keep the lid closed!
+		- GG: casts cleansing weapon on Paulo's dagger again
+		- Paulo: stabs the hit
+			- Auto-hit
+	- Round 1
+		- BB: takes the dagger and stabs the head
+			- 6
+		- 22: takes the dagger and stabs the head
+			- 6
+	- contains an emerald
+		- slot into the standing stone
+
+- dig up the other 2 coffins
+
+- Coffin #3:
+	- Surprise Round
+		- BB: passes DC 15 STR check to decapitate
+		- 22: hit the head with cobra staff
+			- 2 damage
+		- SC: holds the coffin shut
+		- GG: CRITS on Cleansing Weapon
+		- Paulo stabs the head
+			- 2d6 damage = 9
+		- Wight fails to break out
+	- Round 1
+		- BB: takes the dagger and stabs the head
+	- Has a ruby in its mouth
+
+- Coffin #4:
+	- Surprise round
+		- staying in the same initiative order, starting with 22
+		- 22 cuts off the head!
+			- passes DC 15 STR check
+		- Scarface takes the dagger and kills the Wight
+			- pearl in its mouth
+
+- 5 XP gained!
+- Portal opens up as they slot in the last gem
+	- see a ballroom where everything has distorted sizes and colors
+		- Room is empty
+	- Paulo holds GG's feet so she can go further into the portal
+	- GG sees a faerie, who is surprised, giggles, and flies away
+		- Distant laughter from another
+- The party enters the portal!!
+	- Purple plants, bright green fruit that tastes like mozzarella 
+		- **Faerie fruit is a ration**
+	- Paulo eats a fruit
+	- Paulo steals fruit
+	- Glizzy eats a fruit
+	- BB steals a fruit
+	- Portal is still there
+- Takes the left passage towards the laughter
+	- Idyllic winter landscape outside of window
+	- GG strums her lute
+	- Path going down leads them up higher somehow
+- Enters a cavern
+	- Flooded chamber
+	- Giant orange frog with a crown of cattails sitting at the base of a golden tree bearing gemstones
+	- 5-6 faeries flying around dropping off fruit into the frogs mouth
+- GG uses her wings
+	- Faeries tell her that her wings are ugly
+	- Tell her that if she grabs a gem from the tree, they will give her the most beautiful wings
+- Picks the sparkliest pink gem
+	- Glizzy gets imprisoned in the gem!
+- Frog sees the gem fall and starts freaking out
+	- grabs the gem and begins bawling about who is picking his tree!
+	- Faeries fly away laughing about their prank
+- Blagbrag grabs a faerie
+- Frog jumps towards the party and swallows GG's gem
+- GG casts fixed object on the gem!
+- Paulo readies a crossbow bolt
+- 22 throws a fruit at the frog, who becomes incensed and attacks!
+	- "SOMEONE ELSE IS EATING FROM MY GARDEN!!"
+- Combat begins!
